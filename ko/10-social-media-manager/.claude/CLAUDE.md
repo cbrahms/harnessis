@@ -14,13 +14,13 @@ SNS 콘텐츠 달력·포스트작성·해시태그·성과분석을 에이전�
 │   └── performance-reviewer.md — 성과검증자 (KPI정렬, 콘텐츠품질, 정합성)
 ├── skills/
 │   ├── social-media-manager/
-│   │   └── skill.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── platform-algorithms/
-│   │   └── skill.md            — sns-strategist+visual-planner 확장 (알고리즘, 골든타임)
+│   │   └── SKILL.md            — sns-strategist+visual-planner 확장 (알고리즘, 골든타임)
 │   ├── viral-copywriting/
-│   │   └── skill.md            — copywriter 확장 (15 훅 패턴, 감정 트리거, CTA)
+│   │   └── SKILL.md            — copywriter 확장 (15 훅 패턴, 감정 트리거, CTA)
 │   └── hashtag-science/
-│       └── skill.md            — hashtag-analyst 확장 (피라미드 전략, 리서치, 섀도우밴)
+│       └── SKILL.md            — hashtag-analyst 확장 (피라미드 전략, 리서치, 섀도우밴)
 └── CLAUDE.md                   — 이 파일
 ```
 

@@ -14,11 +14,11 @@
 │   └── media-monitor.md          — 미디어 모니터링 (여론추적, 리스크감지, 후속대응)
 ├── skills/
 │   ├── crisis-communication/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── stakeholder-mapping/
-│   │   └── skill.md              — 이해관계자 매핑 프레임워크 (situation-analyst 확장)
+│   │   └── SKILL.md              — 이해관계자 매핑 프레임워크 (situation-analyst 확장)
 │   └── media-response-templates/
-│       └── skill.md              — 미디어 대응 템플릿 (press-release-writer 확장)
+│       └── SKILL.md              — 미디어 대응 템플릿 (press-release-writer 확장)
 └── CLAUDE.md                     — 이 파일
 ```
 

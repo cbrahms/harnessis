@@ -14,11 +14,11 @@ Build a customer support system: an agent team collaborates to produce FAQ, resp
 │   └── cs-reviewer.md           — Cross-validation (FAQ ↔ manual ↔ escalation ↔ analytics consistency)
 ├── skills/
 │   ├── customer-support/
-│       └── skill.md             — Orchestrator (team coordination, workflow, error handling)
+│       └── SKILL.md             — Orchestrator (team coordination, workflow, error handling)
 │   ├── csat-analyzer/
-│   │   └── skill.md             — CSAT analysis (NPS/CES, VOC, CS dashboard)
+│   │   └── SKILL.md             — CSAT analysis (NPS/CES, VOC, CS dashboard)
 │   └── escalation-flowchart/
-│       └── skill.md             — Escalation design (L1/L2/L3, SLA, crisis response)
+│       └── SKILL.md             — Escalation design (L1/L2/L3, SLA, crisis response)
 └── CLAUDE.md                    — This file
 ```
 

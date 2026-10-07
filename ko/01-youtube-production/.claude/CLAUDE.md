@@ -14,7 +14,7 @@ YouTube 영상 콘텐츠의 기획→대본→썸네일→SEO를 에이전트 �
 │   └── production-reviewer.md — 교차 검증 (전략↔대본↔썸네일↔SEO 정합성)
 ├── skills/
 │   └── youtube-production/
-│       └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│       └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 └── CLAUDE.md                  — 이 파일
 ```
 

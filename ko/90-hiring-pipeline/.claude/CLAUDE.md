@@ -14,11 +14,11 @@
 │   └── offer-coordinator.md      — 평가·오퍼 (최종평가, 보상패키지, 오퍼레터)
 ├── skills/
 │   ├── hiring-pipeline/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── competency-model/
-│   │   └── skill.md              — 역량 모델 설계 (jd-writer 확장)
+│   │   └── SKILL.md              — 역량 모델 설계 (jd-writer 확장)
 │   └── interview-scorecard/
-│       └── skill.md              — 구조화 면접 설계 (interview-designer 확장)
+│       └── SKILL.md              — 구조화 면접 설계 (interview-designer 확장)
 └── CLAUDE.md                     — 이 파일
 ```
 

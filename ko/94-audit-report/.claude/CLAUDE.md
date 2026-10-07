@@ -14,11 +14,11 @@
 │   └── tracking-manager.md    — 추적 대장 관리 (이행현황, 후속조치)
 ├── skills/
 │   ├── audit-report/
-│   │   └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── internal-control-framework/
-│   │   └── skill.md           — 내부통제 프레임워크 (scope-designer 확장)
+│   │   └── SKILL.md           — 내부통제 프레임워크 (scope-designer 확장)
 │   └── finding-classification/
-│       └── skill.md           — 발견사항 분류 (findings-analyst 확장)
+│       └── SKILL.md           — 발견사항 분류 (findings-analyst 확장)
 └── CLAUDE.md                  — 이 파일
 ```
 

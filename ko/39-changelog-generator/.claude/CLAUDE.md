@@ -14,11 +14,11 @@
 │   └── announcement-writer.md      — 공지문 작성 (블로그, SNS, 이메일)
 ├── skills/
 │   ├── changelog-generator/
-│       └── skill.md                — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│       └── SKILL.md                — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── semver-analyzer/
-│   │   └── skill.md                — SemVer 분석 (Breaking Change, 버전 범프)
+│   │   └── SKILL.md                — SemVer 분석 (Breaking Change, 버전 범프)
 │   └── commit-parser/
-│       └── skill.md                — 커밋 파싱 (정규식, 비정형 분류, 영향도)
+│       └── SKILL.md                — 커밋 파싱 (정규식, 비정형 분류, 영향도)
 └── CLAUDE.md                       — 이 파일
 ```
 

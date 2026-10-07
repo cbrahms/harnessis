@@ -14,11 +14,11 @@
 │   └── submission-reviewer.md  — 제출 검증자 (교차 검증, 누락 확인, 감점 방지)
 ├── skills/
 │   ├── gov-funding-plan/
-│       └── skill.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│       └── SKILL.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── budget-standard-checker/
-│   │   └── skill.md            — 예산 기준 검증 (비목별 규정, 사업별 기준)
+│   │   └── SKILL.md            — 예산 기준 검증 (비목별 규정, 사업별 기준)
 │   └── scoring-optimizer/
-│       └── skill.md            — 평가 고득점 (항목별 전략, 감점 방지, 키워드)
+│       └── SKILL.md            — 평가 고득점 (항목별 전략, 감점 방지, 키워드)
 └── CLAUDE.md                   — 이 파일
 ```
 

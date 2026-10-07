@@ -14,11 +14,11 @@
 │   └── evaluation-analyst.md     — 사후 평가 (KPI, 설문, 보고서, 교훈)
 ├── skills/
 │   ├── event-organizer/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── budget-planning/
-│   │   └── skill.md              — 이벤트 예산 계획 (concept-planner 확장)
+│   │   └── SKILL.md              — 이벤트 예산 계획 (concept-planner 확장)
 │   └── venue-evaluation/
-│       └── skill.md              — 장소 평가 스코어카드 (logistics-manager 확장)
+│       └── SKILL.md              — 장소 평가 스코어카드 (logistics-manager 확장)
 └── CLAUDE.md                     — 이 파일
 ```
 

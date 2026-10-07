@@ -14,11 +14,11 @@ An agent team harness for designing, decomposing, communicating, and monitoring 
 │   └── architecture-reviewer.md  — Cross-validation (domain <-> service <-> communication <-> observability consistency)
 ├── skills/
 │   ├── microservice-designer/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── ddd-context-mapping/
-│   │   └── skill.md              — Bounded context, event storming, and context map guide
+│   │   └── SKILL.md              — Bounded context, event storming, and context map guide
 │   └── distributed-patterns/
-│       └── skill.md              — Distributed system patterns (Saga, CQRS, Circuit Breaker) guide
+│       └── SKILL.md              — Distributed system patterns (Saga, CQRS, Circuit Breaker) guide
 └── CLAUDE.md                     — This file
 ```
 

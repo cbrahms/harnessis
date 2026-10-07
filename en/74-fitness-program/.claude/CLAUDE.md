@@ -13,11 +13,11 @@ A fitness program design agent team harness.
 │   └── template-builder.md
 ├── skills/
 │   ├── fitness-program/
-│   │   └── skill.md              — Orchestrator
+│   │   └── SKILL.md              — Orchestrator
 │   ├── periodization-engine/
-│   │   └── skill.md              — Periodization engine (linear/undulating/block periodization, deload cycles)
+│   │   └── SKILL.md              — Periodization engine (linear/undulating/block periodization, deload cycles)
 │   └── exercise-biomechanics/
-│       └── skill.md              — Exercise biomechanics (movement patterns, muscle activation, form cues)
+│       └── SKILL.md              — Exercise biomechanics (movement patterns, muscle activation, form cues)
 └── CLAUDE.md                     — This file
 ```
 

@@ -14,13 +14,13 @@ An agent team harness that defines key variables in uncertain environments, cons
 │   └── integration-reviewer.md   — Cross-validation, logical consistency verification, final document integration
 ├── skills/
 │   ├── scenario-planner/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── steep-framework/
-│   │   └── skill.md              — STEEP macro-environment analysis (6 dimension scanning, uncertainty-impact matrix)
+│   │   └── SKILL.md              — STEEP macro-environment analysis (6 dimension scanning, uncertainty-impact matrix)
 │   ├── scenario-narrative-engine/
-│   │   └── skill.md              — Scenario narrative construction (2x2 matrix, timeline, early warning signals)
+│   │   └── SKILL.md              — Scenario narrative construction (2x2 matrix, timeline, early warning signals)
 │   └── decision-trigger-mapper/
-│       └── skill.md              — Decision trigger map (real options, strategy portfolio, execution roadmap)
+│       └── SKILL.md              — Decision trigger map (real options, strategy portfolio, execution roadmap)
 └── CLAUDE.md                     — This file
 ```
 

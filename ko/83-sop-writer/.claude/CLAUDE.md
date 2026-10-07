@@ -14,11 +14,11 @@
 │   └── version-controller.md   — 버전 관리 및 교차 검증 (변경 이력, 정합성 확인)
 ├── skills/
 │   ├── sop-writer/
-│   │   └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── process-mapping/
-│   │   └── skill.md           — 프로세스 매핑 방법론 (process-analyst 확장)
+│   │   └── SKILL.md           — 프로세스 매핑 방법론 (process-analyst 확장)
 │   └── checklist-design/
-│       └── skill.md           — 체크리스트 설계 원칙 (checklist-designer 확장)
+│       └── SKILL.md           — 체크리스트 설계 원칙 (checklist-designer 확장)
 └── CLAUDE.md                  — 이 파일
 ```
 

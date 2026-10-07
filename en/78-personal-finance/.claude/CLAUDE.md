@@ -14,11 +14,11 @@ itemsperson financialmanagement incomeexpenseanalysis→budgetdesign→investmen
 │ └── finance-reviewer.md — cross-verification (analysis↔budget↔investment↔tax savings consistency)
 ├── skills/
 │ ├── personal-finance/
-│ │ └── skill.md — Orchestrator (team , workflow, error handling)
+│ │ └── SKILL.md — Orchestrator (team , workflow, error handling)
 │ ├── compound-interest-simulator/
-│ │ └── skill.md — simulator (investment-advisor)
+│ │ └── SKILL.md — simulator (investment-advisor)
 │ └── financial-ratio-analyzer/
-│ └── skill.md — financial ratio analysisbasis (financial-analyst)
+│ └── SKILL.md — financial ratio analysisbasis (financial-analyst)
 └── CLAUDE.md — file
 ```
 

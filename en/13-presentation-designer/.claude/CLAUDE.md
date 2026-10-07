@@ -14,11 +14,11 @@ A harness where an agent team collaborates to produce presentations: planning, s
 │   └── deck-reviewer.md         — Deck QA (story<->info<->visual<->presentation consistency verification)
 ├── skills/
 │   ├── presentation-designer/
-│   │   └── skill.md             — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md             — Orchestrator (team coordination, workflow, error handling)
 │   ├── slide-layout-patterns/
-│   │   └── skill.md             — visual-designer extension (20 layout patterns, grids, design tokens)
+│   │   └── SKILL.md             — visual-designer extension (20 layout patterns, grids, design tokens)
 │   └── data-visualization-guide/
-│       └── skill.md             — info-architect extension (chart selection matrix, LATCH, color accessibility)
+│       └── SKILL.md             — info-architect extension (chart selection matrix, LATCH, color accessibility)
 └── CLAUDE.md                    — This file
 ```
 

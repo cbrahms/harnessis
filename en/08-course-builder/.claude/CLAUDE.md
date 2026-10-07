@@ -14,13 +14,13 @@ A harness where an agent team collaborates to produce online courses from curric
 │   └── course-reviewer.md      — Course Reviewer (learning objective alignment, difficulty, quality)
 ├── skills/
 │   ├── course-builder/
-│   │   └── skill.md             — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md             — Orchestrator (team coordination, workflow, error handling)
 │   ├── learning-design/
-│   │   └── skill.md             — curriculum-designer+content-writer extension (Bloom's, Gagne, cognitive load)
+│   │   └── SKILL.md             — curriculum-designer+content-writer extension (Bloom's, Gagne, cognitive load)
 │   ├── assessment-engineering/
-│   │   └── skill.md             — quiz-maker extension (item design, distractor psychology, rubrics)
+│   │   └── SKILL.md             — quiz-maker extension (item design, distractor psychology, rubrics)
 │   └── lab-scaffolding/
-│       └── skill.md             — lab-designer extension (5-level pyramid, starter code, capstone)
+│       └── SKILL.md             — lab-designer extension (5-level pyramid, starter code, capstone)
 └── CLAUDE.md                    — This file
 ```
 

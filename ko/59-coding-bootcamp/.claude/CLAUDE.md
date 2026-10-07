@@ -13,11 +13,11 @@
 │   └── mentor.md               — 멘토 (프로젝트 설계, 포트폴리오, 커리어)
 ├── skills/
 │   ├── coding-bootcamp/
-│   │   └── skill.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── code-kata-generator/
-│   │   └── skill.md            — 코딩 과제 설계 (5-Tier 난이도, 테스트케이스, 스캐폴딩)
+│   │   └── SKILL.md            — 코딩 과제 설계 (5-Tier 난이도, 테스트케이스, 스캐폴딩)
 │   └── tech-interview-prep/
-│       └── skill.md            — 기술 면접 준비 (UMPIRE, 시스템 디자인, STAR 행동면접)
+│       └── SKILL.md            — 기술 면접 준비 (UMPIRE, 시스템 디자인, STAR 행동면접)
 └── CLAUDE.md                   — 이 파일
 ```
 

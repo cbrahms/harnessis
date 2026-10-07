@@ -14,11 +14,11 @@ CLI 도구 개발의 명령설계→파서→핸들러→테스트→문서→�
 │   └── release-engineer.md    — 릴리스 (빌드, 패키징, 배포, CI/CD)
 ├── skills/
 │   ├── cli-tool-builder/
-│       └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│       └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── arg-parser-generator/
-│   │   └── skill.md           — 인자 파서 생성 (서브커맨드, 언어별 보일러플레이트)
+│   │   └── SKILL.md           — 인자 파서 생성 (서브커맨드, 언어별 보일러플레이트)
 │   └── ux-linter/
-│       └── skill.md           — CLI UX 검증 (12원칙, 에러 메시지, 출력 포맷)
+│       └── SKILL.md           — CLI UX 검증 (12원칙, 에러 메시지, 출력 포맷)
 └── CLAUDE.md                  — 이 파일
 ```
 

@@ -14,11 +14,11 @@
 │   └── patent-reviewer.md     — 특허 검증자 (명세서-청구항 정합성, 기재불비 점검)
 ├── skills/
 │   ├── patent-drafter/
-│   │   └── skill.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러 핸들링)
+│   │   └── SKILL.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러 핸들링)
 │   ├── claim-drafting-patterns/
-│   │   └── skill.md            — 청구항 작성 패턴, 권리범위 설계 (claim-drafter용)
+│   │   └── SKILL.md            — 청구항 작성 패턴, 권리범위 설계 (claim-drafter용)
 │   └── prior-art-search-strategy/
-│       └── skill.md            — 선행기술 검색 전략 (prior-art-researcher용)
+│       └── SKILL.md            — 선행기술 검색 전략 (prior-art-researcher용)
 └── CLAUDE.md                   — 이 파일
 ```
 

@@ -14,11 +14,11 @@ New hire onboarding: A harness where an agent team collaborates to generate ever
 │   └── experience-reviewer.md    — Experience review (consistency, improvements, reports)
 ├── skills/
 │   ├── onboarding-system/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── learning-path-design/
-│   │   └── skill.md              — Learning path design (training-builder extension)
+│   │   └── SKILL.md              — Learning path design (training-builder extension)
 │   └── buddy-program-guide/
-│       └── skill.md              — Buddy program guide (mentor-matcher extension)
+│       └── SKILL.md              — Buddy program guide (mentor-matcher extension)
 └── CLAUDE.md                     — This file
 ```
 

@@ -14,13 +14,13 @@
 │   └── ir-reviewer.md           — 교차 검증 (재무↔KPI↔시장↔전략 정합성)
 ├── skills/
 │   ├── investor-report/
-│   │   └── skill.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── financial-ratio-analyzer/
-│   │   └── skill.md             — 재무비율 심층 분석 (DuPont, SaaS 메트릭, 5대 비율)
+│   │   └── SKILL.md             — 재무비율 심층 분석 (DuPont, SaaS 메트릭, 5대 비율)
 │   ├── kpi-benchmark-engine/
-│   │   └── skill.md             — KPI 벤치마크 (산업별 벤치마크, SMART-R, 피라미드)
+│   │   └── SKILL.md             — KPI 벤치마크 (산업별 벤치마크, SMART-R, 피라미드)
 │   └── ir-narrative-builder/
-│       └── skill.md             — IR 서사 구성 (Equity Story, 투자자별 톤, EBITDA Bridge)
+│       └── SKILL.md             — IR 서사 구성 (Equity Story, 투자자별 톤, EBITDA Bridge)
 └── CLAUDE.md                    — 이 파일
 ```
 

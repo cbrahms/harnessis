@@ -14,13 +14,13 @@
 │   └── quality-reviewer.md   — 품질 검증자 (스토리-대사-이미지 정합성, 연속성 검증)
 ├── skills/
 │   ├── comic-creator/
-│   │   └── skill.md          — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md          — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── panel-composition/
-│   │   └── skill.md          — storyboarder+image-generator 확장 (앵글, 시선유도, 리듬)
+│   │   └── SKILL.md          — storyboarder+image-generator 확장 (앵글, 시선유도, 리듬)
 │   ├── visual-narrative/
-│   │   └── skill.md          — dialogue-writer+comic-editor 확장 (말풍선, 효과음, SDT)
+│   │   └── SKILL.md          — dialogue-writer+comic-editor 확장 (말풍선, 효과음, SDT)
 │   └── character-design-system/
-│       └── skill.md          — storyboarder+image-generator 확장 (캐릭터 시트, AI 일관성)
+│       └── SKILL.md          — storyboarder+image-generator 확장 (캐릭터 시트, AI 일관성)
 └── CLAUDE.md                 — 이 파일
 ```
 

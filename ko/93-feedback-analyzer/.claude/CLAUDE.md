@@ -14,11 +14,11 @@
 │   └── insight-writer.md      — 인사이트 보고서 (액션아이템, 우선순위)
 ├── skills/
 │   ├── feedback-analyzer/
-│   │   └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── sentiment-scoring/
-│   │   └── skill.md           — 감성 분석 스코어링 (sentiment-analyst 확장)
+│   │   └── SKILL.md           — 감성 분석 스코어링 (sentiment-analyst 확장)
 │   └── text-analytics-methods/
-│       └── skill.md           — 텍스트 분석 방법론 (topic-classifier 확장)
+│       └── SKILL.md           — 텍스트 분석 방법론 (topic-classifier 확장)
 └── CLAUDE.md                  — 이 파일
 ```
 

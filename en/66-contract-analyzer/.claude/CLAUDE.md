@@ -14,11 +14,11 @@ A contract analysis agent team harness.
 │   └── contract-coordinator.md
 ├── skills/
 │   ├── contract-analyzer/
-│   │   └── skill.md              — Orchestrator
+│   │   └── SKILL.md              — Orchestrator
 │   ├── clause-risk-database/
-│   │   └── skill.md              — Clause risk DB (risk levels, standard clauses, amendment examples)
+│   │   └── SKILL.md              — Clause risk DB (risk levels, standard clauses, amendment examples)
 │   └── negotiation-playbook/
-│       └── skill.md              — Negotiation playbook (BATNA, concession strategies, clause alternatives)
+│       └── SKILL.md              — Negotiation playbook (BATNA, concession strategies, clause alternatives)
 └── CLAUDE.md                     — This file
 ```
 

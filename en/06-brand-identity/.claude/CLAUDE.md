@@ -14,13 +14,13 @@ A harness where an agent team collaborates to design brand identity from naming 
 │   └── identity-reviewer.md    — Identity Reviewer (cross-validation, consistency checks)
 ├── skills/
 │   ├── brand-identity/
-│   │   └── skill.md            — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md            — Orchestrator (team coordination, workflow, error handling)
 │   ├── naming-methodology/
-│   │   └── skill.md            — naming-specialist extension (12 techniques, SMILE evaluation, phonology)
+│   │   └── SKILL.md            — naming-specialist extension (12 techniques, SMILE evaluation, phonology)
 │   ├── color-psychology/
-│   │   └── skill.md            — visual-director extension (color psychology, 60-30-10, accessibility)
+│   │   └── SKILL.md            — visual-director extension (color psychology, 60-30-10, accessibility)
 │   └── brand-archetype/
-│       └── skill.md            — brand-strategist+copywriter extension (12 archetypes, tone and voice)
+│       └── SKILL.md            — brand-strategist+copywriter extension (12 archetypes, tone and voice)
 └── CLAUDE.md                   — This file
 ```
 

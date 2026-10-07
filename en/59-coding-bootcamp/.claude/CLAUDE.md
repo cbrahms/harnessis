@@ -13,11 +13,11 @@ A harness where an agent team collaborates to deliver coding education: curricul
 │   └── mentor.md                — Mentor (learning strategy, motivation, career)
 ├── skills/
 │   ├── coding-bootcamp/
-│       └── skill.md             — Orchestrator (team coordination, workflow, error handling)
+│       └── SKILL.md             — Orchestrator (team coordination, workflow, error handling)
 │   ├── code-kata-generator/
-│   │   └── skill.md             — Code Kata Generator (algorithms, patterns, difficulty)
+│   │   └── SKILL.md             — Code Kata Generator (algorithms, patterns, difficulty)
 │   └── tech-interview-prep/
-│       └── skill.md             — Tech Interview Prep (by type, mock interviews)
+│       └── SKILL.md             — Tech Interview Prep (by type, mock interviews)
 └── CLAUDE.md                    — This file
 ```
 

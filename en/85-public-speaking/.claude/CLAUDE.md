@@ -14,11 +14,11 @@
 │ └── rehearsal-coach.md — rehearsal value and cross-verification (delivercapability, consistency)
 ├── skills/
 │ ├── public-speaking/
-│ │ └── skill.md — Orchestrator (team , workflow, error handling)
+│ │ └── SKILL.md — Orchestrator (team , workflow, error handling)
 │ ├── rhetoric-patterns/
-│ │ └── skill.md — numbercompany pattern library (speech-writer extension)
+│ │ └── SKILL.md — numbercompany pattern library (speech-writer extension)
 │ └── audience-engagement/
-│ └── skill.md — audience strategy (audience-analyst extension)
+│ └── SKILL.md — audience strategy (audience-analyst extension)
 └── CLAUDE.md — file
 ```
 

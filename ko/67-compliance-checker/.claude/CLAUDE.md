@@ -13,11 +13,11 @@
 │   └── remediation-planner.md  — 개선 계획 수립자 (시정 조치, 일정 수립, 모니터링 체계)
 ├── skills/
 │   ├── compliance-checker/
-│   │   └── skill.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러 핸들링)
+│   │   └── SKILL.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러 핸들링)
 │   ├── regulation-knowledge-base/
-│   │   └── skill.md            — 업종별 규제 법령 DB (law-mapper, gap-analyst용)
+│   │   └── SKILL.md            — 업종별 규제 법령 DB (law-mapper, gap-analyst용)
 │   └── audit-checklist-engine/
-│       └── skill.md            — 감사 체크리스트 생성 엔진 (status-auditor용)
+│       └── SKILL.md            — 감사 체크리스트 생성 엔진 (status-auditor용)
 └── CLAUDE.md                   — 이 파일
 ```
 

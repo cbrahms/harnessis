@@ -14,11 +14,11 @@
 │   └── pricing-reviewer.md      — 교차 검증 (원가↔경쟁↔가치↔시뮬레이션 정합성)
 ├── skills/
 │   ├── pricing-strategy/
-│       └── skill.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│       └── SKILL.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── psm-analyzer/
-│   │   └── skill.md             — PSM 분석 (Van Westendorp, 최적 가격, 세그먼트)
+│   │   └── SKILL.md             — PSM 분석 (Van Westendorp, 최적 가격, 세그먼트)
 │   └── price-elasticity-calculator/
-│       └── skill.md             — 가격 탄력성 (PED/XED, 최적 가격, 시뮬레이션)
+│       └── SKILL.md             — 가격 탄력성 (PED/XED, 최적 가격, 시뮬레이션)
 └── CLAUDE.md                    — 이 파일
 ```
 

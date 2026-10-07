@@ -14,11 +14,11 @@ An agent team harness for preparing open source project launches covering code c
 │   └── launch-reviewer.md       — Launch reviewer (cross-validation, launch readiness, final checklist)
 ├── skills/
 │   ├── open-source-launcher/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── license-compatibility-matrix/
-│   │   └── skill.md              — Open source license compatibility guide
+│   │   └── SKILL.md              — Open source license compatibility guide
 │   └── community-health-metrics/
-│       └── skill.md              — Open source community health metrics guide
+│       └── SKILL.md              — Open source community health metrics guide
 └── CLAUDE.md                    — This file
 ```
 

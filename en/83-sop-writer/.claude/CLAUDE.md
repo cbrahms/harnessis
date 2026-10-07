@@ -14,11 +14,11 @@ standard operating procedure(SOP) processanalysis→procedure document→checkli
 │ └── version-controller.md — version management and cross-verification (change capability, consistency confirm)
 ├── skills/
 │ ├── sop-writer/
-│ │ └── skill.md — Orchestrator (team , workflow, error handling)
+│ │ └── SKILL.md — Orchestrator (team , workflow, error handling)
 │ ├── process-mapping/
-│ │ └── skill.md — process mapping method (process-analyst extension)
+│ │ └── SKILL.md — process mapping method (process-analyst extension)
 │ └── checklist-design/
-│ └── skill.md — checklist design principle (checklist-designer extension)
+│ └── SKILL.md — checklist design principle (checklist-designer extension)
 └── CLAUDE.md — file
 ```
 

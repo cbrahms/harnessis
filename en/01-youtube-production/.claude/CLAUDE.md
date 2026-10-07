@@ -14,7 +14,7 @@ A harness where an agent team collaborates to produce YouTube video content thro
 │   └── production-reviewer.md — Cross-validation (strategy↔script↔thumbnail↔SEO consistency)
 ├── skills/
 │   └── youtube-production/
-│       └── skill.md           — Orchestrator (team coordination, workflow, error handling)
+│       └── SKILL.md           — Orchestrator (team coordination, workflow, error handling)
 └── CLAUDE.md                  — This file
 ```
 

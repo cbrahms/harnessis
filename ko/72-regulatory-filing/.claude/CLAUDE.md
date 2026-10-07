@@ -13,11 +13,11 @@
 │   └── submission-verifier.md       — 제출 검증 (완전성 확인, 보정사항 점검, 체크리스트)
 ├── skills/
 │   ├── regulatory-filing/
-│   │   └── skill.md                 — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md                 — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── permit-requirements-db/
-│   │   └── skill.md                 — 업종별 인허가 요건 DB (requirements-investigator용)
+│   │   └── SKILL.md                 — 업종별 인허가 요건 DB (requirements-investigator용)
 │   └── form-filling-guide/
-│       └── skill.md                 — 행정 서식 기재 가이드 (document-drafter용)
+│       └── SKILL.md                 — 행정 서식 기재 가이드 (document-drafter용)
 └── CLAUDE.md                        — 이 파일
 ```
 

@@ -14,11 +14,11 @@ A sustainability audit harness. An agent team collaborates to produce environmen
 │   └── improvement-planner.md    — Improvement planning (goals, roadmap, KPIs, budget)
 ├── skills/
 │   ├── sustainability-audit/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── ghg-protocol/
-│   │   └── skill.md              — GHG Protocol (environmental-analyst extension)
+│   │   └── SKILL.md              — GHG Protocol (environmental-analyst extension)
 │   └── materiality-assessment/
-│       └── skill.md              — Materiality assessment (esg-reporter extension)
+│       └── SKILL.md              — Materiality assessment (esg-reporter extension)
 └── CLAUDE.md                     — This file
 ```
 

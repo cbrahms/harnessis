@@ -14,11 +14,11 @@ An agent team harness for creating Architecture Decision Records (ADRs).
 │   └── impact-tracker.md
 ├── skills/
 │   ├── adr-writer/
-│   │   └── skill.md              — Orchestrator
+│   │   └── SKILL.md              — Orchestrator
 │   ├── quality-attribute-analyzer/
-│   │   └── skill.md              — Quality attribute analysis (CAP theorem, weighted evaluation, ATAM)
+│   │   └── SKILL.md              — Quality attribute analysis (CAP theorem, weighted evaluation, ATAM)
 │   └── madr-template-engine/
-│       └── skill.md              — MADR format (ADR status management, numbering system, dependency graph)
+│       └── SKILL.md              — MADR format (ADR status management, numbering system, dependency graph)
 └── CLAUDE.md                     — This file
 ```
 

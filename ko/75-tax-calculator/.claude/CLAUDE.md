@@ -13,11 +13,11 @@
 │   └── strategy-advisor.md    — 절세 전략 (시뮬레이션, 절세방안, 신고자료 준비)
 ├── skills/
 │   ├── tax-calculator/
-│   │   └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── deduction-optimizer-engine/
-│   │   └── skill.md           — 공제 최적화 엔진 (deduction-optimizer용)
+│   │   └── SKILL.md           — 공제 최적화 엔진 (deduction-optimizer용)
 │   └── tax-bracket-simulator/
-│       └── skill.md           — 세율 구간 시뮬레이터 (tax-engine, strategy-advisor용)
+│       └── SKILL.md           — 세율 구간 시뮬레이터 (tax-engine, strategy-advisor용)
 └── CLAUDE.md                  — 이 파일
 ```
 

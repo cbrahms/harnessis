@@ -14,11 +14,11 @@ An e-commerce launch harness. An agent team collaborates to produce product plan
 │   └── cs-architect.md           — CS architecture (FAQ, response templates, escalation)
 ├── skills/
 │   ├── ecommerce-launcher/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── conversion-optimization/
-│   │   └── skill.md              — Conversion optimization (detail-page-writer extension)
+│   │   └── SKILL.md              — Conversion optimization (detail-page-writer extension)
 │   └── product-copy-formulas/
-│       └── skill.md              — Product copywriting formulas (detail-page-writer extension)
+│       └── SKILL.md              — Product copywriting formulas (detail-page-writer extension)
 └── CLAUDE.md                     — This file
 ```
 

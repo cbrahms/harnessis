@@ -14,11 +14,11 @@
 │   └── report-writer.md          — 상태 보고서 (대시보드, 트렌드, 경영진 보고)
 ├── skills/
 │   ├── risk-register/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── risk-scoring-matrix/
-│   │   └── skill.md              — 리스크 평가 매트릭스 (assessment-analyst 확장)
+│   │   └── SKILL.md              — 리스크 평가 매트릭스 (assessment-analyst 확장)
 │   └── risk-response-patterns/
-│       └── skill.md              — 리스크 대응 전략 패턴 (response-strategist 확장)
+│       └── SKILL.md              — 리스크 대응 전략 패턴 (response-strategist 확장)
 └── CLAUDE.md                     — 이 파일
 ```
 

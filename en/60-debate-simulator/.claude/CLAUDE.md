@@ -14,11 +14,11 @@ An agent team harness for debate simulation.
 │   └── rapporteur.md            — Rapporteur (summary, analysis, learning points)
 ├── skills/
 │   ├── debate-simulator/
-│       └── skill.md             — Orchestrator (team coordination, workflow, error handling)
+│       └── SKILL.md             — Orchestrator (team coordination, workflow, error handling)
 │   ├── logical-fallacy-detector/
-│   │   └── skill.md             — Logical Fallacy Detector (formal/informal fallacies)
+│   │   └── SKILL.md             — Logical Fallacy Detector (formal/informal fallacies)
 │   └── argumentation-framework/
-│       └── skill.md             — Argumentation Framework (Toulmin, logical structure)
+│       └── SKILL.md             — Argumentation Framework (Toulmin, logical structure)
 └── CLAUDE.md                    — This file
 ```
 

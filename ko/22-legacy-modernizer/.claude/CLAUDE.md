@@ -14,11 +14,11 @@
 │   └── modernization-reviewer.md — 교차 검증 (분석↔전략↔마이그레이션↔테스트 정합성)
 ├── skills/
 │   ├── legacy-modernizer/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── strangler-fig-patterns/
-│   │   └── skill.md              — 점진적 마이그레이션 패턴 가이드
+│   │   └── SKILL.md              — 점진적 마이그레이션 패턴 가이드
 │   └── dependency-analysis/
-│       └── skill.md              — 의존성 그래프 분석 도구
+│       └── SKILL.md              — 의존성 그래프 분석 도구
 └── CLAUDE.md                     — 이 파일
 ```
 

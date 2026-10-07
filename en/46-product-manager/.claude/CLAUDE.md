@@ -14,11 +14,11 @@ A harness where an agent team collaborates to generate the full PM workflow: Roa
 │   └── pm-reviewer.md         — PM Reviewer (consistency, feasibility review)
 ├── skills/
 │   ├── product-manager/
-│       └── skill.md           — Orchestrator (team coordination, workflow, error handling)
+│       └── SKILL.md           — Orchestrator (team coordination, workflow, error handling)
 │   ├── rice-prioritizer/
-│   │   └── skill.md           — RICE Prioritizer (scoring formula, ICE/MoSCoW supplements)
+│   │   └── SKILL.md           — RICE Prioritizer (scoring formula, ICE/MoSCoW supplements)
 │   └── story-point-estimator/
-│       └── skill.md           — Story Point Estimator (Fibonacci, velocity, decomposition criteria)
+│       └── SKILL.md           — Story Point Estimator (Fibonacci, velocity, decomposition criteria)
 └── CLAUDE.md                  — This file
 ```
 

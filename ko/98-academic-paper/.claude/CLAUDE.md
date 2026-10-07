@@ -14,11 +14,11 @@
 │   └── submission-preparer.md  — 투고 준비자 (저널 선정, 포맷팅)
 ├── skills/
 │   ├── academic-paper/
-│   │   └── skill.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── research-methodology/
-│   │   └── skill.md            — 연구 방법론 가이드 (research-designer 확장)
+│   │   └── SKILL.md            — 연구 방법론 가이드 (research-designer 확장)
 │   └── citation-standards/
-│       └── skill.md            — 학술 인용 표준 (paper-writer 확장)
+│       └── SKILL.md            — 학술 인용 표준 (paper-writer 확장)
 └── CLAUDE.md                   — 이 파일
 ```
 

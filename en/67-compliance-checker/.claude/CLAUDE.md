@@ -13,11 +13,11 @@ Regulatory compliance verification — an agent team collaborates to perform law
 │   └── remediation-planner.md  — Remediation planner (corrective actions, scheduling, monitoring framework)
 ├── skills/
 │   ├── compliance-checker/
-│   │   └── skill.md            — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md            — Orchestrator (team coordination, workflow, error handling)
 │   ├── regulation-knowledge-base/
-│   │   └── skill.md            — Industry-specific regulatory law DB (for law-mapper, gap-analyst)
+│   │   └── SKILL.md            — Industry-specific regulatory law DB (for law-mapper, gap-analyst)
 │   └── audit-checklist-engine/
-│       └── skill.md            — Audit checklist generation engine (for status-auditor)
+│       └── SKILL.md            — Audit checklist generation engine (for status-auditor)
 └── CLAUDE.md                   — This file
 ```
 

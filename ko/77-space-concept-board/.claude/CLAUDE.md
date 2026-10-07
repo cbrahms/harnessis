@@ -14,11 +14,11 @@
 │   └── concept-reviewer.md    — 교차 검증 (스타일↔무드보드↔아이템↔예산 정합성)
 ├── skills/
 │   ├── space-concept-board/
-│   │   └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── color-harmony-engine/
-│   │   └── skill.md           — 색채 조화 엔진 (moodboard-designer용)
+│   │   └── SKILL.md           — 색채 조화 엔진 (moodboard-designer용)
 │   └── spatial-layout-guide/
-│       └── skill.md           — 공간 레이아웃 가이드 (item-curator용)
+│       └── SKILL.md           — 공간 레이아웃 가이드 (item-curator용)
 └── CLAUDE.md                  — 이 파일
 ```
 

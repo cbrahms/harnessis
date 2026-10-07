@@ -14,11 +14,11 @@ LLM 앱 개발의 프롬프트엔지니어링→RAG파이프라인설계→평�
 │   └── deploy-engineer.md       — 배포 설정 (API, 스케일링, 모니터링, 가드레일)
 ├── skills/
 │   ├── llm-app-builder/
-│       └── skill.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│       └── SKILL.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── prompt-optimizer/
-│   │   └── skill.md             — 프롬프트 최적화 (CRISP, 가드레일, A/B 테스트)
+│   │   └── SKILL.md             — 프롬프트 최적화 (CRISP, 가드레일, A/B 테스트)
 │   └── chunking-strategy-guide/
-│       └── skill.md             — 청킹 전략 (시맨틱 청킹, 문서별 전처리, 품질)
+│       └── SKILL.md             — 청킹 전략 (시맨틱 청킹, 문서별 전처리, 품질)
 └── CLAUDE.md                    — 이 파일
 ```
 

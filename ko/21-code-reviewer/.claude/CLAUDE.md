@@ -14,11 +14,11 @@
 │   └── review-synthesizer.md    — 리뷰 종합 (우선순위, 정합성, 최종 판정)
 ├── skills/
 │   ├── code-reviewer/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── vulnerability-patterns/
-│   │   └── skill.md              — 보안분석가 확장 (CWE 분류, 언어별 취약 패턴, 안전한 대안)
+│   │   └── SKILL.md              — 보안분석가 확장 (CWE 분류, 언어별 취약 패턴, 안전한 대안)
 │   └── refactoring-catalog/
-│       └── skill.md              — 아키텍처/성능 확장 (코드 스멜, SOLID 위반, 복잡도 측정)
+│       └── SKILL.md              — 아키텍처/성능 확장 (코드 스멜, SOLID 위반, 복잡도 측정)
 └── CLAUDE.md                     — 이 파일
 ```
 

@@ -14,11 +14,11 @@
 │   └── editorial-reviewer.md    — 편집 리뷰어 (스토리↔텍스트↔이미지↔레이아웃 정합성)
 ├── skills/
 │   ├── visual-storytelling/
-│   │   └── skill.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── image-prompt-engineering/
-│   │   └── skill.md             — 이미지프롬프터 확장 (5-Layer 프롬프트, 스타일 키워드, 일관성 기법)
+│   │   └── SKILL.md             — 이미지프롬프터 확장 (5-Layer 프롬프트, 스타일 키워드, 일관성 기법)
 │   └── narrative-structure-patterns/
-│       └── skill.md             — 스토리설계자 확장 (3막/5막/영웅여정, 감정 곡선, 비주얼 리듬)
+│       └── SKILL.md             — 스토리설계자 확장 (3막/5막/영웅여정, 감정 곡선, 비주얼 리듬)
 └── CLAUDE.md                    — 이 파일
 ```
 

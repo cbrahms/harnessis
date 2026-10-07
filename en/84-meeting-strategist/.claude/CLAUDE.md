@@ -14,11 +14,11 @@ meeting strategy document agenda itemstructuredesign→backgroundmaterialresearc
 │ └── followup-planner.md — and cross-verification (execution tracking, QA)
 ├── skills/
 │ ├── meeting-strategist/
-│ │ └── skill.md — Orchestrator (team , workflow, error handling)
+│ │ └── SKILL.md — Orchestrator (team , workflow, error handling)
 │ ├── decision-frameworks/
-│ │ └── skill.md — decision-making framework library (framework-designer extension)
+│ │ └── SKILL.md — decision-making framework library (framework-designer extension)
 │ └── facilitation-techniques/
-│ └── skill.md — facilitation technique (agenda-architect extension)
+│ └── SKILL.md — facilitation technique (agenda-architect extension)
 └── CLAUDE.md — file
 ```
 

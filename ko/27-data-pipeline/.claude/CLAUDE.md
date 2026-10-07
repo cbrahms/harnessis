@@ -14,11 +14,11 @@
 │   └── pipeline-reviewer.md     — 파이프라인 리뷰어 (교차검증, 정합성, 운영준비도)
 ├── skills/
 │   ├── data-pipeline/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── data-quality-framework/
-│   │   └── skill.md              — 데이터 품질 프레임워크 가이드
+│   │   └── SKILL.md              — 데이터 품질 프레임워크 가이드
 │   └── dag-orchestration-patterns/
-│       └── skill.md              — 파이프라인 오케스트레이션 패턴 가이드
+│       └── SKILL.md              — 파이프라인 오케스트레이션 패턴 가이드
 └── CLAUDE.md                    — 이 파일
 ```
 

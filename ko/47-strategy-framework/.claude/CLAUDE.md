@@ -14,11 +14,11 @@
 │   └── strategy-reviewer.md     — 교차 검증 (OKR↔BSC↔SWOT↔문서 정합성)
 ├── skills/
 │   ├── strategy-framework/
-│       └── skill.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│       └── SKILL.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── okr-quality-checker/
-│   │   └── skill.md             — OKR 품질 검증 (QSIM/SMART-V, 정렬, 안티패턴)
+│   │   └── SKILL.md             — OKR 품질 검증 (QSIM/SMART-V, 정렬, 안티패턴)
 │   └── tows-matrix-builder/
-│       └── skill.md             — TOWS 매트릭스 (SO/WO/ST/WT 전략, 우선순위)
+│       └── SKILL.md             — TOWS 매트릭스 (SO/WO/ST/WT 전략, 우선순위)
 └── CLAUDE.md                    — 이 파일
 ```
 

@@ -14,11 +14,11 @@ DB 설계의 모델링→마이그레이션→인덱싱→쿼리 최적화를 �
 │   └── integration-reviewer.md — 통합 리뷰 (정합성, 일관성, 운영 준비성)
 ├── skills/
 │   ├── database-architect/
-│   │   └── skill.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── normalization-patterns/
-│   │   └── skill.md             — 데이터모델러 확장 (1NF~BCNF, 비정규화 전략, ERD 템플릿)
+│   │   └── SKILL.md             — 데이터모델러 확장 (1NF~BCNF, 비정규화 전략, ERD 템플릿)
 │   └── query-optimization-catalog/
-│       └── skill.md             — 성능분석가 확장 (인덱스 전략, EXPLAIN 분석, N+1, 파티셔닝)
+│       └── SKILL.md             — 성능분석가 확장 (인덱스 전략, EXPLAIN 분석, N+1, 파티셔닝)
 └── CLAUDE.md                    — 이 파일
 ```
 

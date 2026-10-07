@@ -14,11 +14,11 @@ An internal audit report generation harness. An agent team collaborates to handl
 │   └── tracking-manager.md    — Tracking ledger management (implementation status, follow-up)
 ├── skills/
 │   ├── audit-report/
-│   │   └── skill.md           — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md           — Orchestrator (team coordination, workflow, error handling)
 │   ├── internal-control-framework/
-│   │   └── skill.md           — Internal control framework (scope-designer extension)
+│   │   └── SKILL.md           — Internal control framework (scope-designer extension)
 │   └── finding-classification/
-│       └── skill.md           — Finding classification (findings-analyst extension)
+│       └── SKILL.md           — Finding classification (findings-analyst extension)
 └── CLAUDE.md                  — This file
 ```
 

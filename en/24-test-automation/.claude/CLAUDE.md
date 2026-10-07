@@ -14,11 +14,11 @@ An agent team harness that collaborates on test automation strategy development,
 │   └── qa-reviewer.md          — Cross-validation (strategy <-> test <-> coverage consistency)
 ├── skills/
 │   ├── test-automation/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── test-design-patterns/
-│   │   └── skill.md              — Systematic test design pattern guide
+│   │   └── SKILL.md              — Systematic test design pattern guide
 │   └── mocking-strategy/
-│       └── skill.md              — Test double selection and mocking strategy guide
+│       └── SKILL.md              — Test double selection and mocking strategy guide
 └── CLAUDE.md                   — This file
 ```
 

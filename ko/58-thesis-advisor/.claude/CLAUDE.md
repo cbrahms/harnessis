@@ -14,11 +14,11 @@
 │   └── proofreader.md
 ├── skills/
 │   ├── thesis-advisor/
-│   │   └── skill.md              — 오케스트레이터
+│   │   └── SKILL.md              — 오케스트레이터
 │   ├── research-methodology/
-│   │   └── skill.md              — 연구 방법론 (설계 매트릭스, 표본, 타당도·신뢰도)
+│   │   └── SKILL.md              — 연구 방법론 (설계 매트릭스, 표본, 타당도·신뢰도)
 │   └── academic-writing-style/
-│       └── skill.md              — 학술 글쓰기 (논문 구조, 문체, APA 인용)
+│       └── SKILL.md              — 학술 글쓰기 (논문 구조, 문체, APA 인용)
 └── CLAUDE.md                     — 이 파일
 ```
 

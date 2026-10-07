@@ -200,6 +200,6 @@
 1. **에이전트 팀 모드 기본** — 에이전트 간 SendMessage로 직접 통신, 교차 검증
 2. **최소 4개 이상의 전문 에이전트** — 역할 분리와 전문성 확보
 3. **오케스트레이터 스킬** — 팀 조율, 데이터 흐름, 에러 핸들링 포함
-4. **Progressive Disclosure** — skill.md 500줄 이내, 초과 시 references/ 분리
+4. **Progressive Disclosure** — SKILL.md 500줄 이내, 초과 시 references/ 분리
 5. **실전 활용 가능** — 실제 업무/생활에서 바로 사용할 수 있는 수준
 6. **AgentEra 수준의 품질** — 도메인 전문성, 체계적 워크플로우, QA 포함

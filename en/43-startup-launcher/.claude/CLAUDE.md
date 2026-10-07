@@ -14,11 +14,11 @@ Startup launch planning: a harness where an agent team collaborates to perform m
 │   └── launch-reviewer.md    — Launch Reviewer (feasibility assessment, risk analysis, go-to-market review)
 ├── skills/
 │   ├── startup-launcher/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── pitch-deck-framework/
-│   │   └── skill.md              — Pitch deck structure and storytelling framework
+│   │   └── SKILL.md              — Pitch deck structure and storytelling framework
 │   └── unit-economics-calculator/
-│       └── skill.md              — Unit economics calculation methodology
+│       └── SKILL.md              — Unit economics calculation methodology
 └── CLAUDE.md                  — This file
 ```
 

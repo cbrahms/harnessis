@@ -14,11 +14,11 @@ event basis·operations: concept→venue→program→promotion→execution→com
 │ └── evaluation-analyst.md — companyafter assessment (KPI, document, report, )
 ├── skills/
 │ ├── event-organizer/
-│ │ └── skill.md — Orchestrator (team , workflow, error handling)
+│ │ └── SKILL.md — Orchestrator (team , workflow, error handling)
 │ ├── budget-planning/
-│ │ └── skill.md — event budget plan (concept-planner extension)
+│ │ └── SKILL.md — event budget plan (concept-planner extension)
 │ └── venue-evaluation/
-│ └── skill.md — venue assessment scorecard (logistics-manager extension)
+│ └── SKILL.md — venue assessment scorecard (logistics-manager extension)
 └── CLAUDE.md — file
 ```
 

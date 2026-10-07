@@ -14,13 +14,13 @@
 │   └── production-reviewer.md — 교차 검증 (리서치↔대본↔쇼노트↔배포 정합성)
 ├── skills/
 │   ├── podcast-studio/
-│   │   └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── interview-techniques/
-│   │   └── skill.md           — scriptwriter 확장 (DEPTH 질문 모델, 감정 곡선)
+│   │   └── SKILL.md           — scriptwriter 확장 (DEPTH 질문 모델, 감정 곡선)
 │   ├── audio-storytelling/
-│   │   └── skill.md           — scriptwriter+shownote-editor 확장 (서사 아크, BPM 페이싱)
+│   │   └── SKILL.md           — scriptwriter+shownote-editor 확장 (서사 아크, BPM 페이싱)
 │   └── podcast-growth/
-│       └── skill.md           — distribution-manager 확장 (플랫폼 최적화, HIKE 카피)
+│       └── SKILL.md           — distribution-manager 확장 (플랫폼 최적화, HIKE 카피)
 └── CLAUDE.md                  — 이 파일
 ```
 

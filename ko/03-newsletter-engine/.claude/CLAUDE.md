@@ -14,13 +14,13 @@
 │   └── quality-reviewer.md    — 품질 검증자 (교차 검증, 정합성 확인)
 ├── skills/
 │   ├── newsletter-engine/
-│   │   └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── email-copywriting/
-│   │   └── skill.md           — copywriter 확장 (CURVE 제목줄, CTA 설계, F-패턴)
+│   │   └── SKILL.md           — copywriter 확장 (CURVE 제목줄, CTA 설계, F-패턴)
 │   ├── audience-segmentation/
-│   │   └── skill.md           — analyst+curator 확장 (BEAR 모델, 발송 최적화)
+│   │   └── SKILL.md           — analyst+curator 확장 (BEAR 모델, 발송 최적화)
 │   └── deliverability-optimization/
-│       └── skill.md           — editor-in-chief+analyst 확장 (스팸 필터, 도달률)
+│       └── SKILL.md           — editor-in-chief+analyst 확장 (스팸 필터, 도달률)
 └── CLAUDE.md                  — 이 파일
 ```
 

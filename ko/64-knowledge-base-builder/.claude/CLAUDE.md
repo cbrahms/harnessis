@@ -14,11 +14,11 @@
 │   └── maintenance-planner.md
 ├── skills/
 │   ├── knowledge-base-builder/
-│   │   └── skill.md              — 오케스트레이터
+│   │   └── SKILL.md              — 오케스트레이터
 │   ├── information-architecture/
-│   │   └── skill.md              — 정보 구조 설계 (IA 4대 체계, 카드 소팅, 태그)
+│   │   └── SKILL.md              — 정보 구조 설계 (IA 4대 체계, 카드 소팅, 태그)
 │   └── content-lifecycle-manager/
-│       └── skill.md              — 콘텐츠 생명주기 (품질 스코어카드, RACI, 감사)
+│       └── SKILL.md              — 콘텐츠 생명주기 (품질 스코어카드, RACI, 감사)
 └── CLAUDE.md                     — 이 파일
 ```
 

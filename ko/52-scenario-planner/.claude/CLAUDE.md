@@ -14,13 +14,13 @@
 │   └── integration-reviewer.md   — 교차 검증, 논리적 정합성 확인, 최종 문서 통합
 ├── skills/
 │   ├── scenario-planner/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러 핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러 핸들링)
 │   ├── steep-framework/
-│   │   └── skill.md              — STEEP 거시환경 분석 (6대 차원 스캐닝, 불확실성-영향력 매트릭스)
+│   │   └── SKILL.md              — STEEP 거시환경 분석 (6대 차원 스캐닝, 불확실성-영향력 매트릭스)
 │   ├── scenario-narrative-engine/
-│   │   └── skill.md              — 시나리오 서사 구성 (2x2 매트릭스, 타임라인, 조기 경보 신호)
+│   │   └── SKILL.md              — 시나리오 서사 구성 (2x2 매트릭스, 타임라인, 조기 경보 신호)
 │   └── decision-trigger-mapper/
-│       └── skill.md              — 의사결정 트리거 맵 (리얼옵션, 전략 포트폴리오, 실행 로드맵)
+│       └── SKILL.md              — 의사결정 트리거 맵 (리얼옵션, 전략 포트폴리오, 실행 로드맵)
 └── CLAUDE.md                     — 이 파일
 ```
 

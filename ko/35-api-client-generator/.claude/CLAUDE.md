@@ -14,11 +14,11 @@ API 클라이언트 SDK 생성: 스펙파싱→타입생성→클라이언트코
 │   └── doc-writer.md        — 문서 작성 (README, API 레퍼런스, 사용 예제, 변경 로그)
 ├── skills/
 │   ├── api-client-generator/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── openapi-spec-patterns/
-│   │   └── skill.md              — API 스펙 분석 패턴 가이드
+│   │   └── SKILL.md              — API 스펙 분석 패턴 가이드
 │   └── sdk-design-patterns/
-│       └── skill.md              — SDK 설계 패턴 가이드
+│       └── SKILL.md              — SDK 설계 패턴 가이드
 └── CLAUDE.md                — 이 파일
 ```
 

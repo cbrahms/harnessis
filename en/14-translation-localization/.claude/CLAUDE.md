@@ -14,11 +14,11 @@ A harness where an agent team collaborates to perform multilingual translation, 
 │   └── style-harmonizer.md      — Style Harmonizer (tone & voice consistency, brand voice application)
 ├── skills/
 │   ├── translation-localization/
-│   │   └── skill.md             — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md             — Orchestrator (team coordination, workflow, error handling)
 │   ├── translation-quality-mqm/
-│   │   └── skill.md             — quality-reviewer extension (MQM error classification, severity, scoring)
+│   │   └── SKILL.md             — quality-reviewer extension (MQM error classification, severity, scoring)
 │   └── cultural-adaptation-guide/
-│       └── skill.md             — localizer extension (market-specific format conversion, cultural taboos, idiom substitution)
+│       └── SKILL.md             — localizer extension (market-specific format conversion, cultural taboos, idiom substitution)
 └── CLAUDE.md                    — This file
 ```
 

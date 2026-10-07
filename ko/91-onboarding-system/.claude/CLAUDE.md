@@ -14,11 +14,11 @@
 │   └── experience-reviewer.md    — 경험 검증 (정합성, 개선, 보고서)
 ├── skills/
 │   ├── onboarding-system/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── learning-path-design/
-│   │   └── skill.md              — 학습 경로 설계 (training-builder 확장)
+│   │   └── SKILL.md              — 학습 경로 설계 (training-builder 확장)
 │   └── buddy-program-guide/
-│       └── skill.md              — 버디 프로그램 가이드 (mentor-matcher 확장)
+│       └── SKILL.md              — 버디 프로그램 가이드 (mentor-matcher 확장)
 └── CLAUDE.md                     — 이 파일
 ```
 

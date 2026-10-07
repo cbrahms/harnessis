@@ -14,11 +14,11 @@ A sales enablement pipeline where an agent team collaborates to produce: Custome
 │   └── sales-reviewer.md        — Cross-Verification (customer-proposal-presentation-followup consistency)
 ├── skills/
 │   ├── sales-enablement/
-│       └── skill.md             — Orchestrator (team coordination, workflow, error handling)
+│       └── SKILL.md             — Orchestrator (team coordination, workflow, error handling)
 │   ├── roi-calculator/
-│   │   └── skill.md             — ROI Calculator (TCO, Payback, value quantification)
+│   │   └── SKILL.md             — ROI Calculator (TCO, Payback, value quantification)
 │   └── objection-handler/
-│       └── skill.md             — Objection Handling (BANT+C, LAER, negotiation strategy)
+│       └── SKILL.md             — Objection Handling (BANT+C, LAER, negotiation strategy)
 └── CLAUDE.md                    — This file
 ```
 

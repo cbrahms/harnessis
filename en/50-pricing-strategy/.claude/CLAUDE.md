@@ -14,11 +14,11 @@ Develop a pricing strategy: an agent team collaborates to produce cost analysis,
 │   └── pricing-reviewer.md      — Cross-validation (cost ↔ competitive ↔ value ↔ simulation consistency)
 ├── skills/
 │   ├── pricing-strategy/
-│       └── skill.md             — Orchestrator (team coordination, workflow, error handling)
+│       └── SKILL.md             — Orchestrator (team coordination, workflow, error handling)
 │   ├── psm-analyzer/
-│   │   └── skill.md             — PSM analysis (Van Westendorp, optimal price, segments)
+│   │   └── SKILL.md             — PSM analysis (Van Westendorp, optimal price, segments)
 │   └── price-elasticity-calculator/
-│       └── skill.md             — Price elasticity (PED/XED, optimal price, simulation)
+│       └── SKILL.md             — Price elasticity (PED/XED, optimal price, simulation)
 └── CLAUDE.md                    — This file
 ```
 

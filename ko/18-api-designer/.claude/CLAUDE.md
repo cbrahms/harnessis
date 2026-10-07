@@ -14,11 +14,11 @@ REST/GraphQL API의 설계·문서화·목업·테스트를 에이전트 팀이 
 │   └── review-auditor.md     — API 리뷰 (보안, 일관성, 성능, 베스트 프랙티스 준수)
 ├── skills/
 │   ├── api-designer/
-│   │   └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── rest-api-conventions/
-│   │   └── skill.md           — API설계자 확장 (URL 네이밍, 상태 코드, 페이지네이션, 버전관리)
+│   │   └── SKILL.md           — API설계자 확장 (URL 네이밍, 상태 코드, 페이지네이션, 버전관리)
 │   └── api-error-design/
-│       └── skill.md           — 문서작성자/테스터 확장 (에러 코드 체계, 에러 응답, retry 전략)
+│       └── SKILL.md           — 문서작성자/테스터 확장 (에러 코드 체계, 에러 응답, retry 전략)
 └── CLAUDE.md                  — 이 파일
 ```
 

@@ -14,11 +14,11 @@
 │   └── launch-reviewer.md       — 런칭 리뷰어 (교차검증, 런칭준비도, 최종체크리스트)
 ├── skills/
 │   ├── open-source-launcher/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── license-compatibility-matrix/
-│   │   └── skill.md              — 오픈소스 라이선스 호환성 가이드
+│   │   └── SKILL.md              — 오픈소스 라이선스 호환성 가이드
 │   └── community-health-metrics/
-│       └── skill.md              — 오픈소스 커뮤니티 건강도 가이드
+│       └── SKILL.md              — 오픈소스 커뮤니티 건강도 가이드
 └── CLAUDE.md                    — 이 파일
 ```
 

@@ -14,11 +14,11 @@ API client SDK generation: a harness in which an agent team collaborates to perf
 │   └── doc-writer.md        — Documentation (README, API reference, usage examples, changelog)
 ├── skills/
 │   ├── api-client-generator/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── openapi-spec-patterns/
-│   │   └── skill.md              — API spec analysis patterns guide
+│   │   └── SKILL.md              — API spec analysis patterns guide
 │   └── sdk-design-patterns/
-│       └── skill.md              — SDK design patterns guide
+│       └── SKILL.md              — SDK design patterns guide
 └── CLAUDE.md                — This file
 ```
 

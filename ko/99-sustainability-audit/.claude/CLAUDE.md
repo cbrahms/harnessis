@@ -14,11 +14,11 @@ ESG/지속가능성 감사의 환경→사회→거버넌스→보고서→개�
 │   └── improvement-planner.md    — 개선 계획 수립자 (로드맵, KPI, 우선순위)
 ├── skills/
 │   ├── sustainability-audit/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── ghg-protocol/
-│   │   └── skill.md              — GHG Protocol 가이드 (environmental-analyst 확장)
+│   │   └── SKILL.md              — GHG Protocol 가이드 (environmental-analyst 확장)
 │   └── materiality-assessment/
-│       └── skill.md              — 중대성 평가 매트릭스 (esg-reporter 확장)
+│       └── SKILL.md              — 중대성 평가 매트릭스 (esg-reporter 확장)
 └── CLAUDE.md                     — 이 파일
 ```
 

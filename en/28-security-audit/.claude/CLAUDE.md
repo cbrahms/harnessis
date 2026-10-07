@@ -14,13 +14,13 @@ An agent team harness for performing security audits covering vulnerability scan
 │   └── audit-reviewer.md         — Audit reviewer (cross-validation, risk level adjustment, final report)
 ├── skills/
 │   ├── security-audit/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── owasp-testing-guide/
-│   │   └── skill.md              — OWASP Top 10 security testing guide
+│   │   └── SKILL.md              — OWASP Top 10 security testing guide
 │   ├── cve-analysis/
-│   │   └── skill.md              — CVE analysis and dependency vulnerability management guide
+│   │   └── SKILL.md              — CVE analysis and dependency vulnerability management guide
 │   └── threat-modeling/
-│       └── skill.md              — Threat modeling methodology guide
+│       └── SKILL.md              — Threat modeling methodology guide
 └── CLAUDE.md                     — This file
 ```
 

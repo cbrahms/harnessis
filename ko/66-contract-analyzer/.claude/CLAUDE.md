@@ -15,11 +15,11 @@
 │   └── contract-coordinator.md  — 계약 조율 (종합 검토, 정합성 확인, 최종 의견)
 ├── skills/
 │   ├── contract-analyzer/
-│   │   └── skill.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러 핸들링)
+│   │   └── SKILL.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러 핸들링)
 │   ├── clause-risk-database/
-│   │   └── skill.md             — 위험 조항 패턴 DB, 리스크 스코어링 (risk-assessor, clause-analyst용)
+│   │   └── SKILL.md             — 위험 조항 패턴 DB, 리스크 스코어링 (risk-assessor, clause-analyst용)
 │   └── negotiation-playbook/
-│       └── skill.md             — 협상 전략 플레이북, 수정안 문구 템플릿 (clause-drafter용)
+│       └── SKILL.md             — 협상 전략 플레이북, 수정안 문구 템플릿 (clause-drafter용)
 └── CLAUDE.md                    — 이 파일
 ```
 

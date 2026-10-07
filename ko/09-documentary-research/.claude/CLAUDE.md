@@ -14,13 +14,13 @@
 │   └── fact-checker.md         — 팩트체커 (교차검증, 출처확인, 정합성)
 ├── skills/
 │   ├── documentary-research/
-│   │   └── skill.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── investigative-research/
-│   │   └── skill.md            — researcher+fact-checker 확장 (PRIMA, CRAAP, 삼각검증)
+│   │   └── SKILL.md            — researcher+fact-checker 확장 (PRIMA, CRAAP, 삼각검증)
 │   ├── narrative-structure/
-│   │   └── skill.md            — story-architect+narrator 확장 (5 서사유형, 감정곡선)
+│   │   └── SKILL.md            — story-architect+narrator 확장 (5 서사유형, 감정곡선)
 │   └── interview-design/
-│       └── skill.md            — interviewer 확장 (VOICE 대상선정, 깔때기 모델, 윤리)
+│       └── SKILL.md            — interviewer 확장 (VOICE 대상선정, 깔때기 모델, 윤리)
 └── CLAUDE.md                   — 이 파일
 ```
 

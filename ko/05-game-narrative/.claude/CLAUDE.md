@@ -14,13 +14,13 @@
 │   └── narrative-reviewer.md  — 내러티브 검증자 (정합성, 밸런스, 품질 검증)
 ├── skills/
 │   ├── game-narrative/
-│   │   └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── quest-design-patterns/
-│   │   └── skill.md           — quest-designer 확장 (12 아키타입, DRIP 보상, 난이도 곡선)
+│   │   └── SKILL.md           — quest-designer 확장 (12 아키타입, DRIP 보상, 난이도 곡선)
 │   ├── dialogue-systems/
-│   │   └── skill.md           — dialogue-writer 확장 (VOICE 보이스, 선택지 심리학, 바크)
+│   │   └── SKILL.md           — dialogue-writer 확장 (VOICE 보이스, 선택지 심리학, 바크)
 │   └── branching-logic/
-│       └── skill.md           — branch-architect 확장 (6가지 분기 패턴, 플래그, 엔딩)
+│       └── SKILL.md           — branch-architect 확장 (6가지 분기 패턴, 플래그, 엔딩)
 └── CLAUDE.md                  — 이 파일
 ```
 

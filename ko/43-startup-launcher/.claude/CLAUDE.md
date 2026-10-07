@@ -14,11 +14,11 @@
 │   └── launch-reviewer.md     — 런칭 검증자 (전체 일관성, 투자 준비도 평가)
 ├── skills/
 │   ├── startup-launcher/
-│       └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│       └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── unit-economics-calculator/
-│   │   └── skill.md           — 유닛이코노믹스 (LTV/CAC/BEP, 벤치마크)
+│   │   └── SKILL.md           — 유닛이코노믹스 (LTV/CAC/BEP, 벤치마크)
 │   └── pitch-deck-framework/
-│       └── skill.md           — 피치덱 프레임워크 (10-슬라이드, Q&A 대비)
+│       └── SKILL.md           — 피치덱 프레임워크 (10-슬라이드, Q&A 대비)
 └── CLAUDE.md                  — 이 파일
 ```
 

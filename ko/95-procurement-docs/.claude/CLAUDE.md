@@ -14,11 +14,11 @@
 │   └── acceptance-builder.md     — 검수 기준서 작성 (검수항목, 합격기준)
 ├── skills/
 │   ├── procurement-docs/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── vendor-scoring/
-│   │   └── skill.md              — 벤더 평가 스코어카드 (vendor-comparator 확장)
+│   │   └── SKILL.md              — 벤더 평가 스코어카드 (vendor-comparator 확장)
 │   └── contract-checklist/
-│       └── skill.md              — 계약 검토 체크리스트 (contract-reviewer 확장)
+│       └── SKILL.md              — 계약 검토 체크리스트 (contract-reviewer 확장)
 └── CLAUDE.md                     — 이 파일
 ```
 

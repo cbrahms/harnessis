@@ -14,11 +14,11 @@
 │   └── followup-planner.md        — 팔로업 플랜 및 교차 검증 (실행 추적, QA)
 ├── skills/
 │   ├── meeting-strategist/
-│   │   └── skill.md               — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md               — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── decision-frameworks/
-│   │   └── skill.md               — 의사결정 프레임워크 라이브러리 (framework-designer 확장)
+│   │   └── SKILL.md               — 의사결정 프레임워크 라이브러리 (framework-designer 확장)
 │   └── facilitation-techniques/
-│       └── skill.md               — 퍼실리테이션 기법 (agenda-architect 확장)
+│       └── SKILL.md               — 퍼실리테이션 기법 (agenda-architect 확장)
 └── CLAUDE.md                      — 이 파일
 ```
 

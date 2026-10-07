@@ -14,11 +14,11 @@ An automated operations manual generation harness. An agent team collaborates to
 │   └── training-producer.md   — Training material production (quizzes, hands-on exercises, summary cards)
 ├── skills/
 │   ├── operations-manual/
-│   │   └── skill.md           — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md           — Orchestrator (team coordination, workflow, error handling)
 │   ├── flowchart-standards/
-│   │   └── skill.md           — Process flowchart standards (flowchart-designer extension)
+│   │   └── SKILL.md           — Process flowchart standards (flowchart-designer extension)
 │   └── knowledge-base-design/
-│       └── skill.md           — Knowledge base design guide (faq-builder extension)
+│       └── SKILL.md           — Knowledge base design guide (faq-builder extension)
 └── CLAUDE.md                  — This file
 ```
 

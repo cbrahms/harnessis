@@ -14,11 +14,11 @@ An agent team harness for transforming legacy codebases into modern architecture
 │   └── modernization-reviewer.md — Cross-validation (analysis <-> strategy <-> migration <-> test consistency)
 ├── skills/
 │   ├── legacy-modernizer/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── strangler-fig-patterns/
-│   │   └── skill.md              — Incremental migration pattern guide
+│   │   └── SKILL.md              — Incremental migration pattern guide
 │   └── dependency-analysis/
-│       └── skill.md              — Dependency graph analysis tool
+│       └── SKILL.md              — Dependency graph analysis tool
 └── CLAUDE.md                     — This file
 ```
 

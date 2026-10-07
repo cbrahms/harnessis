@@ -14,11 +14,11 @@ A harness where an agent team collaborates to design advertising campaigns: targ
 │   └── campaign-reviewer.md     — Campaign QA (strategy<->copy<->creative<->media consistency verification)
 ├── skills/
 │   ├── advertising-campaign/
-│   │   └── skill.md             — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md             — Orchestrator (team coordination, workflow, error handling)
 │   ├── ad-copywriting-formulas/
-│   │   └── skill.md             — copywriter extension (AIDA/PAS/BAB persuasion formulas, psychological triggers, channel-specific character limits)
+│   │   └── SKILL.md             — copywriter extension (AIDA/PAS/BAB persuasion formulas, psychological triggers, channel-specific character limits)
 │   └── media-mix-calculator/
-│       └── skill.md             — media-planner extension (GRP/CPM/ROAS calculations, budget allocation models, benchmarks)
+│       └── SKILL.md             — media-planner extension (GRP/CPM/ROAS calculations, budget allocation models, benchmarks)
 └── CLAUDE.md                    — This file
 ```
 

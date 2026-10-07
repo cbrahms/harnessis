@@ -14,11 +14,11 @@ An agent team harness that collaborates to design and implement data pipelines c
 │   └── pipeline-reviewer.md     — Pipeline reviewer (cross-validation, consistency, operational readiness)
 ├── skills/
 │   ├── data-pipeline/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── data-quality-framework/
-│   │   └── skill.md              — Data quality framework guide
+│   │   └── SKILL.md              — Data quality framework guide
 │   └── dag-orchestration-patterns/
-│       └── skill.md              — Pipeline orchestration pattern guide
+│       └── SKILL.md              — Pipeline orchestration pattern guide
 └── CLAUDE.md                    — This file
 ```
 

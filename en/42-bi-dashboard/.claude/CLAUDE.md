@@ -14,11 +14,11 @@ BI dashboard construction: a harness where an agent team collaborates to perform
 │   └── bi-reviewer.md         — BI Reviewer (accuracy verification, UX review, performance optimization)
 ├── skills/
 │   ├── bi-dashboard/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── chart-selector/
-│   │   └── skill.md              — Chart type selection guide
+│   │   └── SKILL.md              — Chart type selection guide
 │   └── kpi-tree-builder/
-│       └── skill.md              — KPI tree design methodology guide
+│       └── SKILL.md              — KPI tree design methodology guide
 └── CLAUDE.md                  — This file
 ```
 

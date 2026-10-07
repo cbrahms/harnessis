@@ -14,13 +14,13 @@
 │   └── identity-reviewer.md    — 아이덴티티 검증자 (교차 검증, 정합성 확인)
 ├── skills/
 │   ├── brand-identity/
-│   │   └── skill.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── naming-methodology/
-│   │   └── skill.md            — naming-specialist 확장 (12 기법, SMILE 평가, 음운론)
+│   │   └── SKILL.md            — naming-specialist 확장 (12 기법, SMILE 평가, 음운론)
 │   ├── color-psychology/
-│   │   └── skill.md            — visual-director 확장 (색상 심리, 60-30-10, 접근성)
+│   │   └── SKILL.md            — visual-director 확장 (색상 심리, 60-30-10, 접근성)
 │   └── brand-archetype/
-│       └── skill.md            — brand-strategist+copywriter 확장 (12 아키타입, 톤앤보이스)
+│       └── SKILL.md            — brand-strategist+copywriter 확장 (12 아키타입, 톤앤보이스)
 └── CLAUDE.md                   — 이 파일
 ```
 

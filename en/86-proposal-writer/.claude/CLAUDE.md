@@ -14,11 +14,11 @@ proposal clientanalysis→solutiondesign→price→differentiation→specialistp
 │ └── proposal-designer.md — proposal integration and cross-verification (composition, specialistperson, QA)
 ├── skills/
 │ ├── proposal-writer/
-│ │ └── skill.md — Orchestrator (team , workflow, error handling)
+│ │ └── SKILL.md — Orchestrator (team , workflow, error handling)
 │ ├── roi-calculator/
-│ │ └── skill.md — ROI calculation framework (pricing-strategist extension)
+│ │ └── SKILL.md — ROI calculation framework (pricing-strategist extension)
 │ └── win-theme-builder/
-│ └── skill.md — Win Theme building (differentiator extension)
+│ └── SKILL.md — Win Theme building (differentiator extension)
 └── CLAUDE.md — file
 ```
 

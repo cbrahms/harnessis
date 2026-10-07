@@ -14,13 +14,13 @@ A harness where an agent team collaborates to design game story, quests, dialogu
 │   └── narrative-reviewer.md  — Narrative Reviewer (consistency, balance, quality verification)
 ├── skills/
 │   ├── game-narrative/
-│   │   └── skill.md           — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md           — Orchestrator (team coordination, workflow, error handling)
 │   ├── quest-design-patterns/
-│   │   └── skill.md           — quest-designer extension (12 archetypes, DRIP rewards, difficulty curves)
+│   │   └── SKILL.md           — quest-designer extension (12 archetypes, DRIP rewards, difficulty curves)
 │   ├── dialogue-systems/
-│   │   └── skill.md           — dialogue-writer extension (VOICE framework, choice psychology, barks)
+│   │   └── SKILL.md           — dialogue-writer extension (VOICE framework, choice psychology, barks)
 │   └── branching-logic/
-│       └── skill.md           — branch-architect extension (6 branching patterns, flags, endings)
+│       └── SKILL.md           — branch-architect extension (6 branching patterns, flags, endings)
 └── CLAUDE.md                  — This file
 ```
 

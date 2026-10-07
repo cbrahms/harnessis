@@ -14,11 +14,11 @@
 │   └── deck-reviewer.md         — 덱 QA (스토리↔정보↔비주얼↔발표 정합성 검증)
 ├── skills/
 │   ├── presentation-designer/
-│   │   └── skill.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── slide-layout-patterns/
-│   │   └── skill.md             — 비주얼디자이너 확장 (20가지 레이아웃, 그리드, 디자인 토큰)
+│   │   └── SKILL.md             — 비주얼디자이너 확장 (20가지 레이아웃, 그리드, 디자인 토큰)
 │   └── data-visualization-guide/
-│       └── skill.md             — 정보설계자 확장 (차트 선택 매트릭스, LATCH, 색상 접근성)
+│       └── SKILL.md             — 정보설계자 확장 (차트 선택 매트릭스, LATCH, 색상 접근성)
 └── CLAUDE.md                    — 이 파일
 ```
 

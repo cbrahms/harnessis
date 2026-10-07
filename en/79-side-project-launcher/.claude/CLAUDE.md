@@ -14,11 +14,11 @@ companyproject basis ideaverify→tech stack→MVP→developmentroadmap→launch
 │ └── launch-reviewer.md — cross-verification (idea↔technical↔MVP↔roadmap consistency)
 ├── skills/
 │ ├── side-project-launcher/
-│ │ └── skill.md — Orchestrator (team , workflow, error handling)
+│ │ └── SKILL.md — Orchestrator (team , workflow, error handling)
 │ ├── market-sizing-calculator/
-│ │ └── skill.md — market scale totalbasis (idea-validator)
+│ │ └── SKILL.md — market scale totalbasis (idea-validator)
 │ └── techstack-decision-matrix/
-│ └── skill.md — tech stack decision-making matrix (techstack-analyst)
+│ └── SKILL.md — tech stack decision-making matrix (techstack-analyst)
 └── CLAUDE.md — file
 ```
 

@@ -14,11 +14,11 @@ An agent team harness for performance optimization covering profiling, bottlenec
 │   └── perf-reviewer.md         — Performance reviewer (cross-validation, regression prevention, final report)
 ├── skills/
 │   ├── performance-optimizer/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── query-optimization-patterns/
-│   │   └── skill.md              — Query optimization pattern guide
+│   │   └── SKILL.md              — Query optimization pattern guide
 │   └── caching-strategy-selector/
-│       └── skill.md              — Caching strategy selection guide
+│       └── SKILL.md              — Caching strategy selection guide
 └── CLAUDE.md                    — This file
 ```
 

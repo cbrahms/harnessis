@@ -14,11 +14,11 @@ A harness where an agent team collaborates to design, build, monitor, and optimi
 │   └── pipeline-reviewer.md     — Pipeline review (efficiency, reliability, security, alignment)
 ├── skills/
 │   ├── cicd-pipeline/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── pipeline-security-gates/
-│   │   └── skill.md              — Security scanner extension (SAST/SCA/secret detection tools, gate placement, thresholds)
+│   │   └── SKILL.md              — Security scanner extension (SAST/SCA/secret detection tools, gate placement, thresholds)
 │   └── deployment-strategies/
-│       └── skill.md              — Pipeline designer extension (Blue-Green/Canary/Rolling, DORA)
+│       └── SKILL.md              — Pipeline designer extension (Blue-Green/Canary/Rolling, DORA)
 └── CLAUDE.md                     — This file
 ```
 

@@ -14,11 +14,11 @@ hiring process: JDwriting→sourcing→screening→interview→assessment→offe
 │ └── offer-coordinator.md — assessment·offer (finalassessment, reportpackage, offer)
 ├── skills/
 │ ├── hiring-pipeline/
-│ │ └── skill.md — Orchestrator (team , workflow, error handling)
+│ │ └── SKILL.md — Orchestrator (team , workflow, error handling)
 │ ├── competency-model/
-│ │ └── skill.md — competency model design (jd-writer extension)
+│ │ └── SKILL.md — competency model design (jd-writer extension)
 │ └── interview-scorecard/
-│ └── skill.md — structure interview design (interview-designer extension)
+│ └── SKILL.md — structure interview design (interview-designer extension)
 └── CLAUDE.md — file
 ```
 

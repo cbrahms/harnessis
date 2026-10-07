@@ -14,11 +14,11 @@ A harness where an agent team collaborates to perform DB design from modeling th
 │   └── integration-reviewer.md — Integration review (alignment, consistency, operational readiness)
 ├── skills/
 │   ├── database-architect/
-│   │   └── skill.md             — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md             — Orchestrator (team coordination, workflow, error handling)
 │   ├── normalization-patterns/
-│   │   └── skill.md             — Data modeler extension (1NF-BCNF, denormalization strategies, ERD templates)
+│   │   └── SKILL.md             — Data modeler extension (1NF-BCNF, denormalization strategies, ERD templates)
 │   └── query-optimization-catalog/
-│       └── skill.md             — Performance analyst extension (index strategies, EXPLAIN analysis, N+1, partitioning)
+│       └── SKILL.md             — Performance analyst extension (index strategies, EXPLAIN analysis, N+1, partitioning)
 └── CLAUDE.md                    — This file
 ```
 

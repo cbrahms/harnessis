@@ -14,11 +14,11 @@ Chatbot construction: a harness where an agent team collaborates to perform inte
 │   └── persona-architect.md     — Persona design (bot personality, tone, brand alignment)
 ├── skills/
 │   ├── chatbot-builder/
-│       └── skill.md             — Orchestrator (team coordination, workflow, error handling)
+│       └── SKILL.md             — Orchestrator (team coordination, workflow, error handling)
 │   ├── intent-taxonomy-builder/
-│   │   └── skill.md             — Intent taxonomy (entities, slots, training data)
+│   │   └── SKILL.md             — Intent taxonomy (entities, slots, training data)
 │   └── conversation-flow-validator/
-│       └── skill.md             — Conversation flow validation (defect detection, testing, metrics)
+│       └── SKILL.md             — Conversation flow validation (defect detection, testing, metrics)
 └── CLAUDE.md                    — This file
 ```
 

@@ -14,11 +14,11 @@
 │   └── rehearsal-coach.md      — 리허설 코치 및 교차 검증 (전달력, 정합성)
 ├── skills/
 │   ├── public-speaking/
-│   │   └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── rhetoric-patterns/
-│   │   └── skill.md           — 수사학 패턴 라이브러리 (speech-writer 확장)
+│   │   └── SKILL.md           — 수사학 패턴 라이브러리 (speech-writer 확장)
 │   └── audience-engagement/
-│       └── skill.md           — 청중 참여 전략 (audience-analyst 확장)
+│       └── SKILL.md           — 청중 참여 전략 (audience-analyst 확장)
 └── CLAUDE.md                  — 이 파일
 ```
 

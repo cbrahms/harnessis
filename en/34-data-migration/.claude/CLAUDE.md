@@ -14,11 +14,11 @@ Data migration: a harness in which an agent team collaborates to perform source 
 │   └── rollback-planner.md  — Rollback planning (backup strategy, rollback scripts, emergency procedures)
 ├── skills/
 │   ├── data-migration/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── type-mapping-encyclopedia/
-│   │   └── skill.md              — Data type mapping encyclopedia
+│   │   └── SKILL.md              — Data type mapping encyclopedia
 │   └── data-validation-patterns/
-│       └── skill.md              — Migration validation patterns guide
+│       └── SKILL.md              — Migration validation patterns guide
 └── CLAUDE.md                — This file
 ```
 

@@ -14,11 +14,11 @@ An agent team harness that collaborates to generate incident postmortem reports.
 │   └── postmortem-reviewer.md    — Cross-validation (timeline <-> cause <-> impact <-> remediation consistency)
 ├── skills/
 │   ├── incident-postmortem/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── rca-methodology/
-│   │   └── skill.md              — Root cause analysis methodology guide
+│   │   └── SKILL.md              — Root cause analysis methodology guide
 │   └── sla-impact-calculator/
-│       └── skill.md              — SLA/SLO-based impact calculation guide
+│       └── SKILL.md              — SLA/SLO-based impact calculation guide
 └── CLAUDE.md                     — This file
 ```
 

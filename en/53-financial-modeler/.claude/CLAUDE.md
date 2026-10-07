@@ -14,13 +14,13 @@ A harness where an agent team collaborates to produce the full financial modelin
 │   └── model-reviewer.md        — Model Reviewer (revenue-cost-scenario-valuation consistency)
 ├── skills/
 │   ├── financial-modeler/
-│       └── skill.md             — Orchestrator (team coordination, workflow, error handling)
+│       └── SKILL.md             — Orchestrator (team coordination, workflow, error handling)
 │   ├── sensitivity-analysis/
-│   │   └── skill.md             — Sensitivity Analysis (tornado, spider, data tables)
+│   │   └── SKILL.md             — Sensitivity Analysis (tornado, spider, data tables)
 │   ├── unit-economics/
-│   │   └── skill.md             — Unit Economics (CAC, LTV, payback period)
+│   │   └── SKILL.md             — Unit Economics (CAC, LTV, payback period)
 │   └── dcf-valuation/
-│       └── skill.md             — DCF Valuation (WACC, terminal value, scenarios)
+│       └── SKILL.md             — DCF Valuation (WACC, terminal value, scenarios)
 └── CLAUDE.md                    — This file
 ```
 

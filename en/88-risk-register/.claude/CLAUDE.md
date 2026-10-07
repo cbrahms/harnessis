@@ -14,11 +14,11 @@ project risk managementversus: riskidentification→probability·impactassessmen
 │ └── report-writer.md — status report (dashboard, trend, management reporting)
 ├── skills/
 │ ├── risk-register/
-│ │ └── skill.md — Orchestrator (team , workflow, error handling)
+│ │ └── SKILL.md — Orchestrator (team , workflow, error handling)
 │ ├── risk-scoring-matrix/
-│ │ └── skill.md — risk assessment matrix (assessment-analyst extension)
+│ │ └── SKILL.md — risk assessment matrix (assessment-analyst extension)
 │ └── risk-response-patterns/
-│ └── skill.md — risk response strategy pattern (response-strategist extension)
+│ └── SKILL.md — risk response strategy pattern (response-strategist extension)
 └── CLAUDE.md — file
 ```
 

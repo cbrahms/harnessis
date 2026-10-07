@@ -14,11 +14,11 @@
 │   └── monitor-operator.md    — 모니터링·알림·유지보수 (헬스체크, 변경감지, 로그)
 ├── skills/
 │   ├── web-scraper/
-│       └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│       └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── anti-bot-analyzer/
-│   │   └── skill.md           — 안티봇 분석 (방어 계층, Rate Limit, 법적 리스크)
+│   │   └── SKILL.md           — 안티봇 분석 (방어 계층, Rate Limit, 법적 리스크)
 │   └── selector-generator/
-│       └── skill.md           — 선택자 생성 (CSS/XPath, 견고성 점수, 변경 감지)
+│       └── SKILL.md           — 선택자 생성 (CSS/XPath, 견고성 점수, 변경 감지)
 └── CLAUDE.md                  — 이 파일
 ```
 

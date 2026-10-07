@@ -13,11 +13,11 @@
 │   └── process-architect.md    — 프로세스 설계자 (개인정보 처리 프로세스, 기술적 보호조치)
 ├── skills/
 │   ├── privacy-engineer/
-│   │   └── skill.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러 핸들링)
+│   │   └── SKILL.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러 핸들링)
 │   ├── data-flow-mapper/
-│   │   └── skill.md            — 데이터 플로우 매핑 (pia-assessor, process-architect용)
+│   │   └── SKILL.md            — 데이터 플로우 매핑 (pia-assessor, process-architect용)
 │   └── gdpr-pipa-cross-reference/
-│       └── skill.md            — GDPR·PIPA 교차 참조 (privacy-law-analyst용)
+│       └── SKILL.md            — GDPR·PIPA 교차 참조 (privacy-law-analyst용)
 └── CLAUDE.md                   — 이 파일
 ```
 

@@ -14,11 +14,11 @@
 │   └── devops-engineer.md       — DevOps 엔지니어 (CI/CD, 인프라, 배포, 모니터링)
 ├── skills/
 │   ├── fullstack-webapp/
-│   │   └── skill.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── component-patterns/
-│   │   └── skill.md             — 프론트엔드 확장 (React 패턴, 상태관리, 폴더 구조)
+│   │   └── SKILL.md             — 프론트엔드 확장 (React 패턴, 상태관리, 폴더 구조)
 │   └── api-security-checklist/
-│       └── skill.md             — 백엔드 확장 (OWASP Top 10, 인증/인가, 보안 헤더)
+│       └── SKILL.md             — 백엔드 확장 (OWASP Top 10, 인증/인가, 보안 헤더)
 └── CLAUDE.md                    — 이 파일
 ```
 

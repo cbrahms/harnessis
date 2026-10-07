@@ -14,11 +14,11 @@ A harness where an agent team collaborates to generate an organizational strateg
 │   └── strategy-reviewer.md     — Cross-Verification (OKR-BSC-SWOT-document consistency)
 ├── skills/
 │   ├── strategy-framework/
-│       └── skill.md             — Orchestrator (team coordination, workflow, error handling)
+│       └── SKILL.md             — Orchestrator (team coordination, workflow, error handling)
 │   ├── okr-quality-checker/
-│   │   └── skill.md             — OKR Quality Verification (QSIM/SMART-V, alignment, anti-patterns)
+│   │   └── SKILL.md             — OKR Quality Verification (QSIM/SMART-V, alignment, anti-patterns)
 │   └── tows-matrix-builder/
-│       └── skill.md             — TOWS Matrix (SO/WO/ST/WT strategies, prioritization)
+│       └── SKILL.md             — TOWS Matrix (SO/WO/ST/WT strategies, prioritization)
 └── CLAUDE.md                    — This file
 ```
 
