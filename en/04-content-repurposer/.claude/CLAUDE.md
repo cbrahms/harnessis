@@ -14,11 +14,11 @@ A harness where an agent team transforms a single source piece of content into m
 │   └── quality-reviewer.md      — Quality Reviewer (cross-validation, message consistency)
 ├── skills/
 │   ├── content-repurposer/
-│   │   └── skill.md             — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md             — Orchestrator (team coordination, workflow, error handling)
 │   ├── platform-adaptation/
-│   │   └── skill.md             — sns-copywriter+blog-writer extension (platform DNA, conversion matrix)
+│   │   └── SKILL.md             — sns-copywriter+blog-writer extension (platform DNA, conversion matrix)
 │   └── content-atomization/
-│       └── skill.md             — source-analyst+presentation-builder extension (MINE analysis, atom classification)
+│       └── SKILL.md             — source-analyst+presentation-builder extension (MINE analysis, atom classification)
 └── CLAUDE.md                    — This file
 ```
 

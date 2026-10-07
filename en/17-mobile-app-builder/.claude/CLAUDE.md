@@ -14,11 +14,11 @@ A harness where an agent team collaborates to perform UI/UX design, native code 
 │   └── qa-engineer.md        — Quality verification (UI tests, performance, accessibility, security)
 ├── skills/
 │   ├── mobile-app-builder/
-│   │   └── skill.md           — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md           — Orchestrator (team coordination, workflow, error handling)
 │   ├── mobile-ux-patterns/
-│   │   └── skill.md           — UX designer extension (iOS HIG/Material 3, navigation, design tokens)
+│   │   └── SKILL.md           — UX designer extension (iOS HIG/Material 3, navigation, design tokens)
 │   └── app-store-optimization/
-│       └── skill.md           — Store manager extension (ASO metadata, keyword strategy, review preparation)
+│       └── SKILL.md           — Store manager extension (ASO metadata, keyword strategy, review preparation)
 └── CLAUDE.md                  — This file
 ```
 

@@ -14,11 +14,11 @@ CLI tool construction: a harness where an agent team collaborates to perform com
 │   └── release-engineer.md   — Release Engineer (build, packaging, distribution, CI/CD)
 ├── skills/
 │   ├── cli-tool-builder/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── arg-parser-generator/
-│   │   └── skill.md              — Argument parser generation guide
+│   │   └── SKILL.md              — Argument parser generation guide
 │   └── ux-linter/
-│       └── skill.md              — CLI UX linting guide
+│       └── SKILL.md              — CLI UX linting guide
 └── CLAUDE.md                  — This file
 ```
 

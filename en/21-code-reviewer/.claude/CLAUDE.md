@@ -14,11 +14,11 @@ A harness where an agent team collaborates to perform automated code review acro
 │   └── review-synthesizer.md    — Review synthesis (prioritization, alignment, final verdict)
 ├── skills/
 │   ├── code-reviewer/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── vulnerability-patterns/
-│   │   └── skill.md              — Security analyst extension (CWE classification, language-specific vulnerability patterns, safe alternatives)
+│   │   └── SKILL.md              — Security analyst extension (CWE classification, language-specific vulnerability patterns, safe alternatives)
 │   └── refactoring-catalog/
-│       └── skill.md              — Architecture/performance extension (code smells, SOLID violations, complexity metrics)
+│       └── SKILL.md              — Architecture/performance extension (code smells, SOLID violations, complexity metrics)
 └── CLAUDE.md                     — This file
 ```
 

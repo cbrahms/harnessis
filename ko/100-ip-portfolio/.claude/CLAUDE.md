@@ -14,11 +14,11 @@
 │   └── protection-advisor.md     — 보호 전략 수립자 (침해 대응, 방어 전략)
 ├── skills/
 │   ├── ip-portfolio/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── patent-valuation/
-│   │   └── skill.md              — 특허 가치 평가 (ip-analyst 확장)
+│   │   └── SKILL.md              — 특허 가치 평가 (ip-analyst 확장)
 │   └── ip-landscape-analysis/
-│       └── skill.md              — IP 랜드스케이프 분석 (patent-mapper 확장)
+│       └── SKILL.md              — IP 랜드스케이프 분석 (patent-mapper 확장)
 └── CLAUDE.md                     — 이 파일
 ```
 

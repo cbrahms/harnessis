@@ -13,11 +13,11 @@
 │   └── local-guide.md          — 현지 정보 (교통, 맛집, 문화, 긴급연락처)
 ├── skills/
 │   ├── travel-planner/
-│   │   └── skill.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── route-optimizer/
-│   │   └── skill.md            — 동선 최적화 (itinerary-designer용)
+│   │   └── SKILL.md            — 동선 최적화 (itinerary-designer용)
 │   └── budget-calculator/
-│       └── skill.md            — 여행 예산 계산기 (budget-manager용)
+│       └── SKILL.md            — 여행 예산 계산기 (budget-manager용)
 └── CLAUDE.md                   — 이 파일
 ```
 

@@ -13,11 +13,11 @@
 │   └── template-builder.md    — 템플릿 빌더 (기록지, 진행추적, 측정항목)
 ├── skills/
 │   ├── fitness-program/
-│   │   └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── exercise-biomechanics/
-│   │   └── skill.md           — 운동 생체역학 가이드 (exercise-guide용)
+│   │   └── SKILL.md           — 운동 생체역학 가이드 (exercise-guide용)
 │   └── periodization-engine/
-│       └── skill.md           — 주기화 설계 엔진 (program-architect용)
+│       └── SKILL.md           — 주기화 설계 엔진 (program-architect용)
 └── CLAUDE.md                  — 이 파일
 ```
 

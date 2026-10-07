@@ -14,11 +14,11 @@ RFI/RFP 응답서 작성을 위한 요구사항 분석, 역량 매칭, 기술 �
 │   └── proposal-reviewer.md      — 교차 검증
 ├── skills/
 │   ├── rfp-responder/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러 핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러 핸들링)
 │   ├── win-theme-builder/
-│   │   └── skill.md              — Win Theme 구축 (차별화 전략, Ghost Team 분석)
+│   │   └── SKILL.md              — Win Theme 구축 (차별화 전략, Ghost Team 분석)
 │   └── pricing-calculator/
-│       └── skill.md              — 가격 산정 (SW 원가, FP/MM, 투찰 전략)
+│       └── SKILL.md              — 가격 산정 (SW 원가, FP/MM, 투찰 전략)
 └── CLAUDE.md                     — 이 파일
 ```
 

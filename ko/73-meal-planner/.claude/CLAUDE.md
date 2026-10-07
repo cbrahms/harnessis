@@ -13,11 +13,11 @@
 │   └── shopping-coordinator.md — 장보기·조리 가이드 (장보기목록, 조리순서, 밀프렙)
 ├── skills/
 │   ├── meal-planner/
-│   │   └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── nutrition-calculator/
-│   │   └── skill.md           — 영양소 계산 엔진 (nutritionist, meal-designer용)
+│   │   └── SKILL.md           — 영양소 계산 엔진 (nutritionist, meal-designer용)
 │   └── ingredient-substitution-engine/
-│       └── skill.md           — 식재료 대체 엔진 (recipe-writer용)
+│       └── SKILL.md           — 식재료 대체 엔진 (recipe-writer용)
 └── CLAUDE.md                  — 이 파일
 ```
 

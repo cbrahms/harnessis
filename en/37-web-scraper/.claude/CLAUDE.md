@@ -14,11 +14,11 @@ Web scraping system construction: a harness in which an agent team collaborates 
 │   └── monitor-operator.md    — Monitoring, alerting, and maintenance (health checks, change detection, logging)
 ├── skills/
 │   ├── web-scraper/
-│   │   └── skill.md           — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md           — Orchestrator (team coordination, workflow, error handling)
 │   ├── anti-bot-analyzer/
-│   │   └── skill.md           — Anti-bot analysis (defense layers, rate limits, legal risk)
+│   │   └── SKILL.md           — Anti-bot analysis (defense layers, rate limits, legal risk)
 │   └── selector-generator/
-│       └── skill.md           — Selector generation (CSS/XPath, robustness scoring, change detection)
+│       └── SKILL.md           — Selector generation (CSS/XPath, robustness scoring, change detection)
 └── CLAUDE.md                  — This file
 ```
 

@@ -14,11 +14,11 @@
 │   └── compliance-checker.md     — 규정 준수 검증 (공고 요건 매칭, 배점 최적화)
 ├── skills/
 │   ├── grant-writer/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러 핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러 핸들링)
 │   ├── scoring-optimizer/
-│   │   └── skill.md              — 배점 최적화 (평가 기준 해부, 탈락 방지, 가점 전략)
+│   │   └── SKILL.md              — 배점 최적화 (평가 기준 해부, 탈락 방지, 가점 전략)
 │   └── budget-rule-engine/
-│       └── skill.md              — 예산 규정 엔진 (비목별 상한, 인건비 단가, 정산 가이드)
+│       └── SKILL.md              — 예산 규정 엔진 (비목별 상한, 인건비 단가, 정산 가이드)
 └── CLAUDE.md                     — 이 파일
 ```
 

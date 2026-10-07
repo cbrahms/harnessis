@@ -14,11 +14,11 @@
 │   └── cs-reviewer.md           — 교차 검증 (FAQ↔매뉴얼↔에스컬레이션↔분석 정합성)
 ├── skills/
 │   ├── customer-support/
-│       └── skill.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│       └── SKILL.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── csat-analyzer/
-│   │   └── skill.md             — CSAT 분석 (NPS/CES, VOC, CS 대시보드)
+│   │   └── SKILL.md             — CSAT 분석 (NPS/CES, VOC, CS 대시보드)
 │   └── escalation-flowchart/
-│       └── skill.md             — 에스컬레이션 설계 (L1/L2/L3, SLA, 위기 대응)
+│       └── SKILL.md             — 에스컬레이션 설계 (L1/L2/L3, SLA, 위기 대응)
 └── CLAUDE.md                    — 이 파일
 ```
 

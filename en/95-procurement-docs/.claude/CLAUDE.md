@@ -14,11 +14,11 @@ A procurement document set generation harness. An agent team collaborates to pro
 │   └── acceptance-builder.md     — Acceptance criteria creation (inspection items, pass/fail criteria)
 ├── skills/
 │   ├── procurement-docs/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── vendor-scoring/
-│   │   └── skill.md              — Vendor evaluation scorecard (vendor-comparator extension)
+│   │   └── SKILL.md              — Vendor evaluation scorecard (vendor-comparator extension)
 │   └── contract-checklist/
-│       └── skill.md              — Contract review checklist (contract-reviewer extension)
+│       └── SKILL.md              — Contract review checklist (contract-reviewer extension)
 └── CLAUDE.md                     — This file
 ```
 

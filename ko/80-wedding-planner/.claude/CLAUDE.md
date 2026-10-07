@@ -14,11 +14,11 @@
 │   └── wedding-reviewer.md   — 교차 검증 (타임라인↔예산↔업체↔체크리스트 정합성)
 ├── skills/
 │   ├── wedding-planner/
-│   │   └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── vendor-negotiation-guide/
-│   │   └── skill.md           — 웨딩 업체 비교·협상 가이드 (vendor-analyst용)
+│   │   └── SKILL.md           — 웨딩 업체 비교·협상 가이드 (vendor-analyst용)
 │   └── wedding-budget-optimizer/
-│       └── skill.md           — 결혼 예산 최적화 (budget-controller용)
+│       └── SKILL.md           — 결혼 예산 최적화 (budget-controller용)
 └── CLAUDE.md                  — 이 파일
 ```
 

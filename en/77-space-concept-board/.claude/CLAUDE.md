@@ -14,11 +14,11 @@ A harness where an agent team collaborates to generate style analysis, moodboard
 │   └── concept-reviewer.md    — Cross-verification (style <-> moodboard <-> items <-> budget consistency)
 ├── skills/
 │   ├── space-concept-board/
-│   │   └── skill.md           — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md           — Orchestrator (team coordination, workflow, error handling)
 │   ├── color-harmony-engine/
-│   │   └── skill.md           — Color harmony engine (for moodboard-designer)
+│   │   └── SKILL.md           — Color harmony engine (for moodboard-designer)
 │   └── spatial-layout-guide/
-│       └── skill.md           — Spatial layout guide (for item-curator)
+│       └── SKILL.md           — Spatial layout guide (for item-curator)
 └── CLAUDE.md                  — This file
 ```
 

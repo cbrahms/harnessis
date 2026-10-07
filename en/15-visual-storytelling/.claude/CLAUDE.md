@@ -14,11 +14,11 @@ A harness where an agent team collaborates to produce visual storytelling: story
 │   └── editorial-reviewer.md    — Editorial Reviewer (story<->text<->image<->layout consistency)
 ├── skills/
 │   ├── visual-storytelling/
-│   │   └── skill.md             — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md             — Orchestrator (team coordination, workflow, error handling)
 │   ├── image-prompt-engineering/
-│   │   └── skill.md             — image-prompter extension (5-Layer prompts, style keywords, consistency techniques)
+│   │   └── SKILL.md             — image-prompter extension (5-Layer prompts, style keywords, consistency techniques)
 │   └── narrative-structure-patterns/
-│       └── skill.md             — story-architect extension (3-act/5-act/hero's journey, emotion curves, visual rhythm)
+│       └── SKILL.md             — story-architect extension (3-act/5-act/hero's journey, emotion curves, visual rhythm)
 └── CLAUDE.md                    — This file
 ```
 

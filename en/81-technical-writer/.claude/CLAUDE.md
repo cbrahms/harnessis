@@ -14,13 +14,13 @@ technical document writing structuredesign→→diagram→review→versionmanage
 │ └── version-controller.md — version management (change capability, data, deployment)
 ├── skills/
 │ ├── technical-writer/
-│ │ └── skill.md — Orchestrator (team , workflow, error handling)
+│ │ └── SKILL.md — Orchestrator (team , workflow, error handling)
 │ ├── diagram-patterns/
-│ │ └── skill.md — Mermaid diagram pattern library (diagram-maker extension)
+│ │ └── SKILL.md — Mermaid diagram pattern library (diagram-maker extension)
 │ ├── api-doc-standards/
-│ │ └── skill.md — API document writing tablelevel (doc-writer extension)
+│ │ └── SKILL.md — API document writing tablelevel (doc-writer extension)
 │ └── code-example-patterns/
-│ └── skill.md — code example pattern library (doc-writer extension)
+│ └── SKILL.md — code example pattern library (doc-writer extension)
 └── CLAUDE.md — file
 ```
 

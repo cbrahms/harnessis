@@ -14,11 +14,11 @@
 │   └── qa-engineer.md        — 품질 검증 (UI 테스트, 성능, 접근성, 보안)
 ├── skills/
 │   ├── mobile-app-builder/
-│   │   └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── mobile-ux-patterns/
-│   │   └── skill.md           — UX디자이너 확장 (iOS HIG/Material 3, 네비게이션, 디자인 토큰)
+│   │   └── SKILL.md           — UX디자이너 확장 (iOS HIG/Material 3, 네비게이션, 디자인 토큰)
 │   └── app-store-optimization/
-│       └── skill.md           — 스토어매니저 확장 (ASO 메타데이터, 키워드 전략, 심사 대응)
+│       └── SKILL.md           — 스토어매니저 확장 (ASO 메타데이터, 키워드 전략, 심사 대응)
 └── CLAUDE.md                  — 이 파일
 ```
 

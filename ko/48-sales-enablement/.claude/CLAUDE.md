@@ -14,11 +14,11 @@
 │   └── sales-reviewer.md        — 교차 검증 (고객↔제안서↔PT↔팔로업 정합성)
 ├── skills/
 │   ├── sales-enablement/
-│       └── skill.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│       └── SKILL.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── roi-calculator/
-│   │   └── skill.md             — ROI 계산 (TCO, Payback, 가치 정량화)
+│   │   └── SKILL.md             — ROI 계산 (TCO, Payback, 가치 정량화)
 │   └── objection-handler/
-│       └── skill.md             — 이의 대응 (BANT+C, LAER, 협상 전략)
+│       └── SKILL.md             — 이의 대응 (BANT+C, LAER, 협상 전략)
 └── CLAUDE.md                    — 이 파일
 ```
 

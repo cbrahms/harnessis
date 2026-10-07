@@ -14,11 +14,11 @@
 │   └── finance-reviewer.md   — 교차 검증 (분석↔예산↔투자↔절세 정합성)
 ├── skills/
 │   ├── personal-finance/
-│   │   └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── compound-interest-simulator/
-│   │   └── skill.md           — 복리 시뮬레이터 (investment-advisor용)
+│   │   └── SKILL.md           — 복리 시뮬레이터 (investment-advisor용)
 │   └── financial-ratio-analyzer/
-│       └── skill.md           — 재무 비율 분석기 (financial-analyst용)
+│       └── SKILL.md           — 재무 비율 분석기 (financial-analyst용)
 └── CLAUDE.md                  — 이 파일
 ```
 

@@ -14,11 +14,11 @@
 │   └── rapporteur.md
 ├── skills/
 │   ├── debate-simulator/
-│   │   └── skill.md              — 오케스트레이터
+│   │   └── SKILL.md              — 오케스트레이터
 │   ├── argumentation-framework/
-│   │   └── skill.md              — 논증 구축 (Toulmin 모델, 증거 피라미드, 반박 5-Type)
+│   │   └── SKILL.md              — 논증 구축 (Toulmin 모델, 증거 피라미드, 반박 5-Type)
 │   └── logical-fallacy-detector/
-│       └── skill.md              — 논리적 오류 검출 (4대 분류, 감점 기준, 루브릭)
+│       └── SKILL.md              — 논리적 오류 검출 (4대 분류, 감점 기준, 루브릭)
 └── CLAUDE.md                     — 이 파일
 ```
 

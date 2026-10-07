@@ -14,11 +14,11 @@ A harness where an agent team collaborates to develop fullstack web apps through
 │   └── devops-engineer.md       — DevOps engineer (CI/CD, infrastructure, deployment, monitoring)
 ├── skills/
 │   ├── fullstack-webapp/
-│   │   └── skill.md             — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md             — Orchestrator (team coordination, workflow, error handling)
 │   ├── component-patterns/
-│   │   └── skill.md             — Frontend extension (React patterns, state management, folder structure)
+│   │   └── SKILL.md             — Frontend extension (React patterns, state management, folder structure)
 │   └── api-security-checklist/
-│       └── skill.md             — Backend extension (OWASP Top 10, auth, security headers)
+│       └── SKILL.md             — Backend extension (OWASP Top 10, auth, security headers)
 └── CLAUDE.md                    — This file
 ```
 

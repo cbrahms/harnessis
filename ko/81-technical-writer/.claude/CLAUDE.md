@@ -14,13 +14,13 @@
 │   └── version-controller.md  — 버전 관리 (변경 이력, 메타데이터, 배포)
 ├── skills/
 │   ├── technical-writer/
-│   │   └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── diagram-patterns/
-│   │   └── skill.md           — Mermaid 다이어그램 패턴 라이브러리 (diagram-maker 확장)
+│   │   └── SKILL.md           — Mermaid 다이어그램 패턴 라이브러리 (diagram-maker 확장)
 │   ├── api-doc-standards/
-│   │   └── skill.md           — API 문서 작성 표준 (doc-writer 확장)
+│   │   └── SKILL.md           — API 문서 작성 표준 (doc-writer 확장)
 │   └── code-example-patterns/
-│       └── skill.md           — 코드 예제 패턴 라이브러리 (doc-writer 확장)
+│       └── SKILL.md           — 코드 예제 패턴 라이브러리 (doc-writer 확장)
 └── CLAUDE.md                  — 이 파일
 ```
 

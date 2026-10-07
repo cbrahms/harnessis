@@ -14,11 +14,11 @@
 │   └── proposal-designer.md     — 제안서 통합 및 교차 검증 (구성, 디자인, QA)
 ├── skills/
 │   ├── proposal-writer/
-│   │   └── skill.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── roi-calculator/
-│   │   └── skill.md             — ROI 산출 프레임워크 (pricing-strategist 확장)
+│   │   └── SKILL.md             — ROI 산출 프레임워크 (pricing-strategist 확장)
 │   └── win-theme-builder/
-│       └── skill.md             — Win Theme 구축 (differentiator 확장)
+│       └── SKILL.md             — Win Theme 구축 (differentiator 확장)
 └── CLAUDE.md                    — 이 파일
 ```
 

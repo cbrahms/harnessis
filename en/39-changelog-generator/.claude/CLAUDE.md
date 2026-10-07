@@ -14,11 +14,11 @@ Changelog generation: a harness where an agent team collaborates to perform comm
 │   └── announcement-writer.md     — Announcement Writer (blog post, social media, email announcement)
 ├── skills/
 │   ├── changelog-generator/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── commit-parser/
-│   │   └── skill.md              — Conventional commit parsing guide
+│   │   └── SKILL.md              — Conventional commit parsing guide
 │   └── semver-analyzer/
-│       └── skill.md              — Semantic versioning analysis guide
+│       └── SKILL.md              — Semantic versioning analysis guide
 └── CLAUDE.md                      — This file
 ```
 

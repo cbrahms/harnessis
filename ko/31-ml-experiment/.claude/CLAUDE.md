@@ -14,13 +14,13 @@ ML 실험 관리의 데이터준비→모델설계→학습→평가→배포를
 │   └── experiment-reviewer.md   — 실험 리뷰어 (교차검증, 논문품질, 재현성검증)
 ├── skills/
 │   ├── ml-experiment/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── feature-engineering-cookbook/
-│   │   └── skill.md              — 피처 엔지니어링 기법 카탈로그
+│   │   └── SKILL.md              — 피처 엔지니어링 기법 카탈로그
 │   ├── model-selection-guide/
-│   │   └── skill.md              — ML 모델 선택 매트릭스 가이드
+│   │   └── SKILL.md              — ML 모델 선택 매트릭스 가이드
 │   └── experiment-tracking-setup/
-│       └── skill.md              — 실험 추적 및 재현성 가이드
+│       └── SKILL.md              — 실험 추적 및 재현성 가이드
 └── CLAUDE.md                    — 이 파일
 ```
 

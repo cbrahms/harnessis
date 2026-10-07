@@ -14,11 +14,11 @@
 │   └── cs-architect.md         — CS 설계자 (FAQ, 응대매뉴얼, 반품정책)
 ├── skills/
 │   ├── ecommerce-launcher/
-│   │   └── skill.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── conversion-optimization/
-│   │   └── skill.md            — 구매전환 최적화 (detail-page-writer 확장)
+│   │   └── SKILL.md            — 구매전환 최적화 (detail-page-writer 확장)
 │   └── product-copy-formulas/
-│       └── skill.md            — 상품 카피 공식 (marketing-manager 확장)
+│       └── SKILL.md            — 상품 카피 공식 (marketing-manager 확장)
 └── CLAUDE.md                   — 이 파일
 ```
 

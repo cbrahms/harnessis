@@ -14,11 +14,11 @@ A harness where an agent team collaborates to design, document, mock, and test R
 │   └── review-auditor.md     — API review (security, consistency, performance, best practice compliance)
 ├── skills/
 │   ├── api-designer/
-│   │   └── skill.md           — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md           — Orchestrator (team coordination, workflow, error handling)
 │   ├── rest-api-conventions/
-│   │   └── skill.md           — API architect extension (URL naming, status codes, pagination, versioning)
+│   │   └── SKILL.md           — API architect extension (URL naming, status codes, pagination, versioning)
 │   └── api-error-design/
-│       └── skill.md           — Doc writer/tester extension (error code system, error responses, retry strategies)
+│       └── SKILL.md           — Doc writer/tester extension (error code system, error responses, retry strategies)
 └── CLAUDE.md                  — This file
 ```
 

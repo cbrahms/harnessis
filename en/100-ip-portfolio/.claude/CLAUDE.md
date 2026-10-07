@@ -14,11 +14,11 @@ An intellectual property portfolio management harness. An agent team collaborate
 │   └── renewal-scheduler.md     — Renewal scheduling (deadlines, cost optimization, abandonment criteria)
 ├── skills/
 │   ├── ip-portfolio/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── patent-valuation/
-│   │   └── skill.md              — Patent valuation (ip-analyst extension)
+│   │   └── SKILL.md              — Patent valuation (ip-analyst extension)
 │   └── ip-landscape-analysis/
-│       └── skill.md              — IP landscape analysis (patent-mapper extension)
+│       └── SKILL.md              — IP landscape analysis (patent-mapper extension)
 └── CLAUDE.md                     — This file
 ```
 

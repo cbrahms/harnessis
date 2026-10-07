@@ -14,13 +14,13 @@ A harness where an agent team collaborates to produce podcast content through th
 │   └── production-reviewer.md — Cross-validation (research↔script↔show notes↔distribution consistency)
 ├── skills/
 │   ├── podcast-studio/
-│   │   └── skill.md           — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md           — Orchestrator (team coordination, workflow, error handling)
 │   ├── interview-techniques/
-│   │   └── skill.md           — scriptwriter extension (DEPTH question model, emotional arc)
+│   │   └── SKILL.md           — scriptwriter extension (DEPTH question model, emotional arc)
 │   ├── audio-storytelling/
-│   │   └── skill.md           — scriptwriter+shownote-editor extension (narrative arcs, BPM pacing)
+│   │   └── SKILL.md           — scriptwriter+shownote-editor extension (narrative arcs, BPM pacing)
 │   └── podcast-growth/
-│       └── skill.md           — distribution-manager extension (platform optimization, HIKE copy)
+│       └── SKILL.md           — distribution-manager extension (platform optimization, HIKE copy)
 └── CLAUDE.md                  — This file
 ```
 

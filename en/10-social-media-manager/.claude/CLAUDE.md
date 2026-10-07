@@ -14,13 +14,13 @@ A harness where an agent team collaborates to produce SNS content calendars, pos
 │   └── performance-reviewer.md — Performance Reviewer (KPI alignment, content quality, consistency)
 ├── skills/
 │   ├── social-media-manager/
-│   │   └── skill.md            — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md            — Orchestrator (team coordination, workflow, error handling)
 │   ├── platform-algorithms/
-│   │   └── skill.md            — sns-strategist+visual-planner extension (algorithms, golden hours)
+│   │   └── SKILL.md            — sns-strategist+visual-planner extension (algorithms, golden hours)
 │   ├── viral-copywriting/
-│   │   └── skill.md            — copywriter extension (15 hook patterns, emotion triggers, CTAs)
+│   │   └── SKILL.md            — copywriter extension (15 hook patterns, emotion triggers, CTAs)
 │   └── hashtag-science/
-│       └── skill.md            — hashtag-analyst extension (pyramid strategy, research, shadowban)
+│       └── SKILL.md            — hashtag-analyst extension (pyramid strategy, research, shadowban)
 └── CLAUDE.md                   — This file
 ```
 

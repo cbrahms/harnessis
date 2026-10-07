@@ -14,11 +14,11 @@ A harness where an agent team collaborates to create RFI/RFP responses: requirem
 │   └── proposal-reviewer.md    — Proposal Reviewer (requirements-capability-technical-pricing consistency)
 ├── skills/
 │   ├── rfp-responder/
-│       └── skill.md             — Orchestrator (team coordination, workflow, error handling)
+│       └── SKILL.md             — Orchestrator (team coordination, workflow, error handling)
 │   ├── win-theme-builder/
-│   │   └── skill.md             — Win Theme Builder (differentiation, messaging, evidence)
+│   │   └── SKILL.md             — Win Theme Builder (differentiation, messaging, evidence)
 │   └── pricing-calculator/
-│       └── skill.md             — Pricing Calculator (cost estimation, margin, discounts)
+│       └── SKILL.md             — Pricing Calculator (cost estimation, margin, discounts)
 └── CLAUDE.md                    — This file
 ```
 

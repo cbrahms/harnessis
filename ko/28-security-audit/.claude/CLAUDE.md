@@ -14,13 +14,13 @@
 │   └── audit-reviewer.md         — 감사 리뷰어 (교차검증, 위험등급조정, 최종보고서)
 ├── skills/
 │   ├── security-audit/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── owasp-testing-guide/
-│   │   └── skill.md              — OWASP Top 10 보안 테스트 가이드
+│   │   └── SKILL.md              — OWASP Top 10 보안 테스트 가이드
 │   ├── cve-analysis/
-│   │   └── skill.md              — CVE 분석 및 의존성 취약점 관리 가이드
+│   │   └── SKILL.md              — CVE 분석 및 의존성 취약점 관리 가이드
 │   └── threat-modeling/
-│       └── skill.md              — 위협 모델링 방법론 가이드
+│       └── SKILL.md              — 위협 모델링 방법론 가이드
 └── CLAUDE.md                     — 이 파일
 ```
 

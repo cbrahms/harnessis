@@ -14,11 +14,11 @@
 │   └── style-harmonizer.md      — 스타일 통일자 (톤앤보이스 일관성, 브랜드 어조 적용)
 ├── skills/
 │   ├── translation-localization/
-│   │   └── skill.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── translation-quality-mqm/
-│   │   └── skill.md             — 품질검증자 확장 (MQM 오류 분류, 심각도, 점수 산출)
+│   │   └── SKILL.md             — 품질검증자 확장 (MQM 오류 분류, 심각도, 점수 산출)
 │   └── cultural-adaptation-guide/
-│       └── skill.md             — 현지화전문가 확장 (시장별 형식 변환, 문화 금기, 관용구 대체)
+│       └── SKILL.md             — 현지화전문가 확장 (시장별 형식 변환, 문화 금기, 관용구 대체)
 └── CLAUDE.md                    — 이 파일
 ```
 

@@ -14,11 +14,11 @@
 │   └── postmortem-reviewer.md    — 교차 검증 (타임라인↔원인↔영향↔대책 정합성)
 ├── skills/
 │   ├── incident-postmortem/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── rca-methodology/
-│   │   └── skill.md              — 근본원인 분석 방법론 가이드
+│   │   └── SKILL.md              — 근본원인 분석 방법론 가이드
 │   └── sla-impact-calculator/
-│       └── skill.md              — SLA/SLO 기반 영향도 산정 가이드
+│       └── SKILL.md              — SLA/SLO 기반 영향도 산정 가이드
 └── CLAUDE.md                     — 이 파일
 ```
 

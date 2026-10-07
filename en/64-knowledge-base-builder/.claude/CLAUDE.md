@@ -14,11 +14,11 @@ An agent team harness for building organizational knowledge management systems.
 │   └── maintenance-planner.md
 ├── skills/
 │   ├── knowledge-base-builder/
-│   │   └── skill.md              — Orchestrator
+│   │   └── SKILL.md              — Orchestrator
 │   ├── information-architecture/
-│   │   └── skill.md              — Information architecture design (4 IA systems, card sorting, tags)
+│   │   └── SKILL.md              — Information architecture design (4 IA systems, card sorting, tags)
 │   └── content-lifecycle-manager/
-│       └── skill.md              — Content lifecycle (quality scorecard, RACI, auditing)
+│       └── SKILL.md              — Content lifecycle (quality scorecard, RACI, auditing)
 └── CLAUDE.md                     — This file
 ```
 

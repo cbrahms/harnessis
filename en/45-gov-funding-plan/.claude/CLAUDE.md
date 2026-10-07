@@ -14,11 +14,11 @@ Government funding proposal: a harness where an agent team collaborates to perfo
 │   └── submission-reviewer.md — Submission Reviewer (compliance check, scoring optimization, final review)
 ├── skills/
 │   ├── gov-funding-plan/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── budget-standard-checker/
-│   │   └── skill.md              — Government budget standards compliance guide
+│   │   └── SKILL.md              — Government budget standards compliance guide
 │   └── scoring-optimizer/
-│       └── skill.md              — Proposal scoring optimization methodology
+│       └── SKILL.md              — Proposal scoring optimization methodology
 └── CLAUDE.md                  — This file
 ```
 

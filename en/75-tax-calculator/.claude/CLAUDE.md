@@ -13,11 +13,11 @@ A tax calculation agent team harness.
 │   └── strategy-advisor.md
 ├── skills/
 │   ├── tax-calculator/
-│   │   └── skill.md              — Orchestrator
+│   │   └── SKILL.md              — Orchestrator
 │   ├── tax-bracket-simulator/
-│   │   └── skill.md              — Tax bracket simulator (progressive rates, effective rate calculation, bracket optimization)
+│   │   └── SKILL.md              — Tax bracket simulator (progressive rates, effective rate calculation, bracket optimization)
 │   └── deduction-optimizer-engine/
-│       └── skill.md              — Deduction optimizer engine (deduction catalog, eligibility checker, savings calculator)
+│       └── SKILL.md              — Deduction optimizer engine (deduction catalog, eligibility checker, savings calculator)
 └── CLAUDE.md                     — This file
 ```
 

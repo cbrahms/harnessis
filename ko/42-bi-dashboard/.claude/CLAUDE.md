@@ -14,11 +14,11 @@ BI 대시보드 구축의 데이터웨어하우스 설계→KPI 정의→시각�
 │   └── bi-reviewer.md         — BI 검증자 (데이터 정합성, 지표 검증, UX 검토)
 ├── skills/
 │   ├── bi-dashboard/
-│       └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│       └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── kpi-tree-builder/
-│   │   └── skill.md           — KPI 트리 (분해 방법론, 도메인 템플릿, 임계값)
+│   │   └── SKILL.md           — KPI 트리 (분해 방법론, 도메인 템플릿, 임계값)
 │   └── chart-selector/
-│       └── skill.md           — 차트 선택 (의사결정 트리, 차트별 규칙, 레이아웃)
+│       └── SKILL.md           — 차트 선택 (의사결정 트리, 차트별 규칙, 레이아웃)
 └── CLAUDE.md                  — 이 파일
 ```
 

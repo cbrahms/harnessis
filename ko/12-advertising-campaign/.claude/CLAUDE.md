@@ -14,11 +14,11 @@
 │   └── campaign-reviewer.md     — 캠페인 QA (전략↔카피↔크리에이티브↔미디어 정합성 검증)
 ├── skills/
 │   ├── advertising-campaign/
-│   │   └── skill.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── ad-copywriting-formulas/
-│   │   └── skill.md             — 카피라이터 확장 (AIDA/PAS/BAB 설득 공식, 심리 트리거, 채널별 글자수)
+│   │   └── SKILL.md             — 카피라이터 확장 (AIDA/PAS/BAB 설득 공식, 심리 트리거, 채널별 글자수)
 │   └── media-mix-calculator/
-│       └── skill.md             — 미디어플래너 확장 (GRP/CPM/ROAS 계산, 예산 배분 모델, 벤치마크)
+│       └── SKILL.md             — 미디어플래너 확장 (GRP/CPM/ROAS 계산, 예산 배분 모델, 벤치마크)
 └── CLAUDE.md                    — 이 파일
 ```
 

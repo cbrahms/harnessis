@@ -14,11 +14,11 @@
 │   └── executive-summarizer.md — 요약 및 교차 검증 (핵심 요약, 정합성 확인)
 ├── skills/
 │   ├── report-generator/
-│   │   └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── data-visualization-guide/
-│   │   └── skill.md           — 데이터 시각화 가이드 (visualizer 확장)
+│   │   └── SKILL.md           — 데이터 시각화 가이드 (visualizer 확장)
 │   └── kpi-dashboard-patterns/
-│       └── skill.md           — KPI 대시보드 설계 패턴 (analyst 확장)
+│       └── SKILL.md           — KPI 대시보드 설계 패턴 (analyst 확장)
 └── CLAUDE.md                  — 이 파일
 ```
 

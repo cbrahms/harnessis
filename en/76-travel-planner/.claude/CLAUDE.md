@@ -13,11 +13,11 @@ A harness where an agent team collaborates to generate destination analysis, iti
 │   └── local-guide.md          — Local information (transport, restaurants, culture, emergency contacts)
 ├── skills/
 │   ├── travel-planner/
-│   │   └── skill.md            — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md            — Orchestrator (team coordination, workflow, error handling)
 │   ├── route-optimizer/
-│   │   └── skill.md            — Route optimization (for itinerary-designer)
+│   │   └── SKILL.md            — Route optimization (for itinerary-designer)
 │   └── budget-calculator/
-│       └── skill.md            — Travel budget calculator (for budget-manager)
+│       └── SKILL.md            — Travel budget calculator (for budget-manager)
 └── CLAUDE.md                   — This file
 ```
 

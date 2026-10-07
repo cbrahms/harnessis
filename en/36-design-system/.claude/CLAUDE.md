@@ -14,11 +14,11 @@ UI design system construction: a harness in which an agent team collaborates to 
 │   └── doc-writer.md           — Documentation (design principles, usage guides, contribution guide)
 ├── skills/
 │   ├── design-system/
-│   │   └── skill.md            — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md            — Orchestrator (team coordination, workflow, error handling)
 │   ├── wcag-checker/
-│   │   └── skill.md            — Accessibility verification (WCAG checklist, contrast ratios, ARIA)
+│   │   └── SKILL.md            — Accessibility verification (WCAG checklist, contrast ratios, ARIA)
 │   └── token-generator/
-│       └── skill.md            — Design token generation (color scales, typography, spacing)
+│       └── SKILL.md            — Design token generation (color scales, typography, spacing)
 └── CLAUDE.md                   — This file
 ```
 

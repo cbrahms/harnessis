@@ -14,11 +14,11 @@
 │   └── qa-reviewer.md          — 교차 검증 (전략↔테스트↔커버리지 정합성)
 ├── skills/
 │   ├── test-automation/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── test-design-patterns/
-│   │   └── skill.md              — 체계적 테스트 설계 패턴 가이드
+│   │   └── SKILL.md              — 체계적 테스트 설계 패턴 가이드
 │   └── mocking-strategy/
-│       └── skill.md              — 테스트 더블 선택 및 모킹 전략 가이드
+│       └── SKILL.md              — 테스트 더블 선택 및 모킹 전략 가이드
 └── CLAUDE.md                   — 이 파일
 ```
 

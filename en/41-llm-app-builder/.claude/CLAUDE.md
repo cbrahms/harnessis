@@ -14,11 +14,11 @@ LLM application construction: a harness where an agent team collaborates to perf
 │   └── deploy-engineer.md        — Deploy Engineer (API serving, scaling, monitoring, CI/CD)
 ├── skills/
 │   ├── llm-app-builder/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── chunking-strategy-guide/
-│   │   └── skill.md              — Document chunking strategy guide
+│   │   └── SKILL.md              — Document chunking strategy guide
 │   └── prompt-optimizer/
-│       └── skill.md              — Prompt optimization methodology guide
+│       └── SKILL.md              — Prompt optimization methodology guide
 └── CLAUDE.md                      — This file
 ```
 

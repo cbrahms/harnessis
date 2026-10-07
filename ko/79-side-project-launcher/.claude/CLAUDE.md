@@ -14,11 +14,11 @@
 │   └── launch-reviewer.md    — 교차 검증 (아이디어↔기술↔MVP↔로드맵 정합성)
 ├── skills/
 │   ├── side-project-launcher/
-│   │   └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── market-sizing-calculator/
-│   │   └── skill.md           — 시장 규모 계산기 (idea-validator용)
+│   │   └── SKILL.md           — 시장 규모 계산기 (idea-validator용)
 │   └── techstack-decision-matrix/
-│       └── skill.md           — 기술스택 의사결정 매트릭스 (techstack-analyst용)
+│       └── SKILL.md           — 기술스택 의사결정 매트릭스 (techstack-analyst용)
 └── CLAUDE.md                  — 이 파일
 ```
 

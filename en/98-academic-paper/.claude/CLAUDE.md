@@ -14,11 +14,11 @@ An academic paper writing harness. An agent team collaborates to produce researc
 │   └── submission-preparer.md    — Submission preparation (journal selection, formatting, cover letter)
 ├── skills/
 │   ├── academic-paper/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── research-methodology/
-│   │   └── skill.md              — Research methodology (research-designer extension)
+│   │   └── SKILL.md              — Research methodology (research-designer extension)
 │   └── citation-standards/
-│       └── skill.md              — Citation standards (paper-writer extension)
+│       └── SKILL.md              — Citation standards (paper-writer extension)
 └── CLAUDE.md                     — This file
 ```
 

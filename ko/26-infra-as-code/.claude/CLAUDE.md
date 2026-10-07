@@ -14,11 +14,11 @@ Infrastructure as Code(IaC) 설계 및 구현을 에이전트 팀이 협업하�
 │   └── iac-reviewer.md           — 교차 검증 (설계↔보안↔비용↔드리프트 정합성)
 ├── skills/
 │   ├── infra-as-code/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── terraform-module-patterns/
-│   │   └── skill.md              — Terraform 모듈 설계 패턴 가이드
+│   │   └── SKILL.md              — Terraform 모듈 설계 패턴 가이드
 │   └── cloud-cost-models/
-│       └── skill.md              — 클라우드 비용 모델 및 FinOps 가이드
+│       └── SKILL.md              — 클라우드 비용 모델 및 FinOps 가이드
 └── CLAUDE.md                     — 이 파일
 ```
 

@@ -13,11 +13,11 @@ A privacy engineering agent team harness.
 │   └── consent-designer.md
 ├── skills/
 │   ├── privacy-engineer/
-│   │   └── skill.md              — Orchestrator
+│   │   └── SKILL.md              — Orchestrator
 │   ├── gdpr-pipa-cross-reference/
-│   │   └── skill.md              — GDPR-PIPA cross-reference (article mapping, requirements comparison, implementation guide)
+│   │   └── SKILL.md              — GDPR-PIPA cross-reference (article mapping, requirements comparison, implementation guide)
 │   └── data-flow-mapper/
-│       └── skill.md              — Data flow mapper (data inventory, transfer mapping, legal basis matrix)
+│       └── SKILL.md              — Data flow mapper (data inventory, transfer mapping, legal basis matrix)
 └── CLAUDE.md                     — This file
 ```
 

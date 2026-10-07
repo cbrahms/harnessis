@@ -14,11 +14,11 @@
 │   └── training-producer.md   — 교육자료 제작 (퀴즈, 실습과제, 요약카드)
 ├── skills/
 │   ├── operations-manual/
-│   │   └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── flowchart-standards/
-│   │   └── skill.md           — 프로세스 플로차트 표준 (flowchart-designer 확장)
+│   │   └── SKILL.md           — 프로세스 플로차트 표준 (flowchart-designer 확장)
 │   └── knowledge-base-design/
-│       └── skill.md           — 지식 베이스 구축 가이드 (faq-builder 확장)
+│       └── SKILL.md           — 지식 베이스 구축 가이드 (faq-builder 확장)
 └── CLAUDE.md                  — 이 파일
 ```
 

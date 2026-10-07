@@ -14,11 +14,11 @@
 │   └── report-writer.md     — 보고서 작성 (구조화 데이터 통합, 인사이트, 시각화)
 ├── skills/
 │   ├── text-processor/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── nlp-preprocessing-toolkit/
-│   │   └── skill.md              — 텍스트 전처리 도구 가이드
+│   │   └── SKILL.md              — 텍스트 전처리 도구 가이드
 │   └── sentiment-lexicon-builder/
-│       └── skill.md              — 감성 사전 및 ABSA 설계 가이드
+│       └── SKILL.md              — 감성 사전 및 ABSA 설계 가이드
 └── CLAUDE.md                — 이 파일
 ```
 

@@ -14,11 +14,11 @@ wedding preparation comprehensive timelinedesign→budgetmanagementtable→vendo
 │ └── wedding-reviewer.md — cross-verification (timeline↔budget↔vendor↔checklist consistency)
 ├── skills/
 │ ├── wedding-planner/
-│ │ └── skill.md — Orchestrator (team , workflow, error handling)
+│ │ └── SKILL.md — Orchestrator (team , workflow, error handling)
 │ ├── vendor-negotiation-guide/
-│ │ └── skill.md — vendor comparison·negotiation guide (vendor-analyst)
+│ │ └── SKILL.md — vendor comparison·negotiation guide (vendor-analyst)
 │ └── wedding-budget-optimizer/
-│ └── skill.md — wedding budget optimization (budget-controller)
+│ └── SKILL.md — wedding budget optimization (budget-controller)
 └── CLAUDE.md — file
 ```
 

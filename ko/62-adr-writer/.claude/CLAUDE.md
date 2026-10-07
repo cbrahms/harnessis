@@ -14,11 +14,11 @@
 │   └── impact-tracker.md
 ├── skills/
 │   ├── adr-writer/
-│   │   └── skill.md              — 오케스트레이터
+│   │   └── SKILL.md              — 오케스트레이터
 │   ├── quality-attribute-analyzer/
-│   │   └── skill.md              — 품질 속성 분석 (CAP 정리, 가중 평가, ATAM)
+│   │   └── SKILL.md              — 품질 속성 분석 (CAP 정리, 가중 평가, ATAM)
 │   └── madr-template-engine/
-│       └── skill.md              — MADR 포맷 (ADR 상태 관리, 번호 체계, 의존성 그래프)
+│       └── SKILL.md              — MADR 포맷 (ADR 상태 관리, 번호 체계, 의존성 그래프)
 └── CLAUDE.md                     — 이 파일
 ```
 

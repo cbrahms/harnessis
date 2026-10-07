@@ -14,11 +14,11 @@ crisis situation occurrence when situationidentify→messagestrategy→press rel
 │ └── media-monitor.md — media monitoring (tracking, riskdegree, afterwithinresponse)
 ├── skills/
 │ ├── crisis-communication/
-│ │ └── skill.md — Orchestrator (team , workflow, error handling)
+│ │ └── SKILL.md — Orchestrator (team , workflow, error handling)
 │ ├── stakeholder-mapping/
-│ │ └── skill.md — stakeholder mapping framework (situation-analyst extension)
+│ │ └── SKILL.md — stakeholder mapping framework (situation-analyst extension)
 │ └── media-response-templates/
-│ └── skill.md — media response template (press-release-writer extension)
+│ └── SKILL.md — media response template (press-release-writer extension)
 └── CLAUDE.md — file
 ```
 

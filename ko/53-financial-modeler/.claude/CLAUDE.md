@@ -14,13 +14,13 @@
 │   └── model-reviewer.md         — 교차 검증
 ├── skills/
 │   ├── financial-modeler/
-│   │   └── skill.md              — 오케스트레이터
+│   │   └── SKILL.md              — 오케스트레이터
 │   ├── dcf-valuation/
-│   │   └── skill.md              — DCF 밸류에이션 (WACC, FCFF, 터미널 밸류)
+│   │   └── SKILL.md              — DCF 밸류에이션 (WACC, FCFF, 터미널 밸류)
 │   ├── sensitivity-analysis/
-│   │   └── skill.md              — 민감도 분석 (토네이도, 시나리오 테이블, 브레이크이븐)
+│   │   └── SKILL.md              — 민감도 분석 (토네이도, 시나리오 테이블, 브레이크이븐)
 │   └── unit-economics/
-│       └── skill.md              — 단위 경제학 (LTV/CAC, 공헌이익, 코호트 분석)
+│       └── SKILL.md              — 단위 경제학 (LTV/CAC, 공헌이익, 코호트 분석)
 └── CLAUDE.md                     — 이 파일
 ```
 

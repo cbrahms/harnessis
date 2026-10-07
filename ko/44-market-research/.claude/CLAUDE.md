@@ -14,11 +14,11 @@
 │   └── research-reviewer.md   — 리서치 검증자 (교차 검증, 인사이트 통합)
 ├── skills/
 │   ├── market-research/
-│       └── skill.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│       └── SKILL.md           — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── tam-sam-som-calculator/
-│   │   └── skill.md           — TAM/SAM/SOM 산출 (상향식/하향식, 데이터 소스)
+│   │   └── SKILL.md           — TAM/SAM/SOM 산출 (상향식/하향식, 데이터 소스)
 │   └── porter-five-forces/
-│       └── skill.md           — Porter 5 Forces (산업 매력도, 전략 시사점)
+│       └── SKILL.md           — Porter 5 Forces (산업 매력도, 전략 시사점)
 └── CLAUDE.md                  — 이 파일
 ```
 

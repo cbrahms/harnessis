@@ -14,11 +14,11 @@ A harness where an agent team collaborates to perform the full data analysis lif
 │   └── reporter.md          — Report Writing (insight synthesis, executive summary, recommendations)
 ├── skills/
 │   ├── data-analysis/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── statistical-tests-selector/
-│   │   └── skill.md              — Statistical test selection guide
+│   │   └── SKILL.md              — Statistical test selection guide
 │   └── visualization-chooser/
-│       └── skill.md              — Visualization type selection matrix guide
+│       └── SKILL.md              — Visualization type selection matrix guide
 └── CLAUDE.md                — This file
 ```
 

@@ -14,13 +14,13 @@
 │   └── publishing-reviewer.md   — 출판검증자 (품질검증, 규격확인, 최종체크)
 ├── skills/
 │   ├── book-publishing/
-│   │   └── skill.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── developmental-editing/
-│   │   └── skill.md             — manuscript-editor 확장 (SPINE 체크, 장르별 편집, 페이싱)
+│   │   └── SKILL.md             — manuscript-editor 확장 (SPINE 체크, 장르별 편집, 페이싱)
 │   ├── cover-design-psychology/
-│   │   └── skill.md             — cover-designer 확장 (장르별 컨벤션, 타이포, AI 프롬프트)
+│   │   └── SKILL.md             — cover-designer 확장 (장르별 컨벤션, 타이포, AI 프롬프트)
 │   └── book-metadata-seo/
-│       └── skill.md             — metadata-manager 확장 (BISAC/KDC, 키워드, AIDA 설명문)
+│       └── SKILL.md             — metadata-manager 확장 (BISAC/KDC, 키워드, AIDA 설명문)
 └── CLAUDE.md                    — 이 파일
 ```
 

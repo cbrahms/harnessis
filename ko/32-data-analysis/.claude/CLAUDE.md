@@ -14,11 +14,11 @@
 │   └── reporter.md          — 보고서 작성 (인사이트 종합, 경영진 요약, 권고안)
 ├── skills/
 │   ├── data-analysis/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── statistical-tests-selector/
-│   │   └── skill.md              — 통계 검정 선택 가이드
+│   │   └── SKILL.md              — 통계 검정 선택 가이드
 │   └── visualization-chooser/
-│       └── skill.md              — 시각화 유형 선택 매트릭스 가이드
+│       └── SKILL.md              — 시각화 유형 선택 매트릭스 가이드
 └── CLAUDE.md                — 이 파일
 ```
 

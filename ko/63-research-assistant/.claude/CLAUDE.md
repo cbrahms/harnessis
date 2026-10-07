@@ -14,11 +14,11 @@
 │   └── research-coordinator.md
 ├── skills/
 │   ├── research-assistant/
-│   │   └── skill.md              — 오케스트레이터
+│   │   └── SKILL.md              — 오케스트레이터
 │   ├── systematic-review-protocol/
-│   │   └── skill.md              — 체계적 문헌 고찰 (PRISMA, PICO, Boolean 검색)
+│   │   └── SKILL.md              — 체계적 문헌 고찰 (PRISMA, PICO, Boolean 검색)
 │   └── citation-formatter/
-│       └── skill.md              — 인용 형식 변환 (APA/MLA/Chicago, BibTeX)
+│       └── SKILL.md              — 인용 형식 변환 (APA/MLA/Chicago, BibTeX)
 └── CLAUDE.md                     — 이 파일
 ```
 

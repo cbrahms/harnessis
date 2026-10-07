@@ -14,11 +14,11 @@
 │   └── review-coach.md
 ├── skills/
 │   ├── language-tutor/
-│   │   └── skill.md              — 오케스트레이터
+│   │   └── SKILL.md              — 오케스트레이터
 │   ├── spaced-repetition/
-│   │   └── skill.md              — 간격 반복 알고리즘 (SM-2, 에빙하우스, 복습 설계)
+│   │   └── SKILL.md              — 간격 반복 알고리즘 (SM-2, 에빙하우스, 복습 설계)
 │   └── cefr-assessment/
-│       └── skill.md              — CEFR 레벨 평가 (6단계 기술자, 적응형 진단, 시험 매핑)
+│       └── SKILL.md              — CEFR 레벨 평가 (6단계 기술자, 적응형 진단, 시험 매핑)
 └── CLAUDE.md                     — 이 파일
 ```
 

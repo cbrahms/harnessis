@@ -14,11 +14,11 @@ An agent team harness for exam preparation: exam trend analysis, weakness diagno
 │   └── error-analyst.md         — Error Analyst (patterns, root causes, remedies)
 ├── skills/
 │   ├── exam-prep/
-│       └── skill.md             — Orchestrator (team coordination, workflow, error handling)
+│       └── SKILL.md             — Orchestrator (team coordination, workflow, error handling)
 │   ├── error-pattern-analyzer/
-│   │   └── skill.md             — Error Pattern Analyzer (by type, by cause)
+│   │   └── SKILL.md             — Error Pattern Analyzer (by type, by cause)
 │   └── bloom-taxonomy-engine/
-│       └── skill.md             — Bloom Taxonomy Engine (questions by cognitive level)
+│       └── SKILL.md             — Bloom Taxonomy Engine (questions by cognitive level)
 └── CLAUDE.md                    — This file
 ```
 

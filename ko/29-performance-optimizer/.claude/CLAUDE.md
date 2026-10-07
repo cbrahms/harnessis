@@ -14,11 +14,11 @@
 │   └── perf-reviewer.md         — 성능 리뷰어 (교차검증, 회귀방지, 최종보고서)
 ├── skills/
 │   ├── performance-optimizer/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── query-optimization-patterns/
-│   │   └── skill.md              — 쿼리 최적화 패턴 가이드
+│   │   └── SKILL.md              — 쿼리 최적화 패턴 가이드
 │   └── caching-strategy-selector/
-│       └── skill.md              — 캐싱 전략 선택 가이드
+│       └── SKILL.md              — 캐싱 전략 선택 가이드
 └── CLAUDE.md                    — 이 파일
 ```
 

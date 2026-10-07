@@ -14,11 +14,11 @@ A real estate analysis harness. An agent team collaborates to produce market res
 │   └── report-writer.md          — Investment report (overall judgment, investment opinion)
 ├── skills/
 │   ├── real-estate-analyst/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── cap-rate-calculator/
-│   │   └── skill.md              — Yield calculator (profitability-analyst extension)
+│   │   └── SKILL.md              — Yield calculator (profitability-analyst extension)
 │   └── location-scoring/
-│       └── skill.md              — Location evaluation scorecard (location-analyst extension)
+│       └── SKILL.md              — Location evaluation scorecard (location-analyst extension)
 └── CLAUDE.md                     — This file
 ```
 

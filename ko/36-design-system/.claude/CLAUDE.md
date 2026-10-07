@@ -14,11 +14,11 @@ UI 디자인 시스템 구축: 디자인토큰→컴포넌트라이브러리→�
 │   └── doc-writer.md           — 문서 작성 (설계 원칙, 사용 가이드, 기여 가이드)
 ├── skills/
 │   ├── design-system/
-│       └── skill.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│       └── SKILL.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── wcag-checker/
-│   │   └── skill.md            — 접근성 검증 (WCAG 체크리스트, 대비비, ARIA)
+│   │   └── SKILL.md            — 접근성 검증 (WCAG 체크리스트, 대비비, ARIA)
 │   └── token-generator/
-│       └── skill.md            — 디자인 토큰 생성 (색상 스케일, 타이포, 간격)
+│       └── SKILL.md            — 디자인 토큰 생성 (색상 스케일, 타이포, 간격)
 └── CLAUDE.md                   — 이 파일
 ```
 

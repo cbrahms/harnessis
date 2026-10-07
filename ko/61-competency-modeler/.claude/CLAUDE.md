@@ -13,11 +13,11 @@
 │   └── development-planner.md    — 개발계획 수립자 (역량개발, 학습경로, 매트릭스)
 ├── skills/
 │   ├── competency-modeler/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── bars-assessment/
-│   │   └── skill.md              — BARS 평가 설계 (행동 앵커, BEI 질문, SJT 문항)
+│   │   └── SKILL.md              — BARS 평가 설계 (행동 앵커, BEI 질문, SJT 문항)
 │   └── ksa-taxonomy/
-│       └── skill.md              — KSA 분류 체계 (NCS/O*NET 매핑, 역량 수준, JD 표준)
+│       └── SKILL.md              — KSA 분류 체계 (NCS/O*NET 매핑, 역량 수준, JD 표준)
 └── CLAUDE.md                     — 이 파일
 ```
 

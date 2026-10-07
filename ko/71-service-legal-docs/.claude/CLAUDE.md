@@ -13,11 +13,11 @@
 │   └── consistency-reviewer.md  — 정합성 검증자 (문서 간 일관성, 법적 정합성, 최종 QA)
 ├── skills/
 │   ├── service-legal-docs/
-│   │   └── skill.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러 핸들링)
+│   │   └── SKILL.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러 핸들링)
 │   ├── unfair-terms-detector/
-│   │   └── skill.md             — 불공정약관 감지·수정 (tos-specialist용)
+│   │   └── SKILL.md             — 불공정약관 감지·수정 (tos-specialist용)
 │   └── cross-document-linker/
-│       └── skill.md             — 문서 간 교차 참조·정합성 관리 (consistency-reviewer용)
+│       └── SKILL.md             — 문서 간 교차 참조·정합성 관리 (consistency-reviewer용)
 └── CLAUDE.md                    — 이 파일
 ```
 

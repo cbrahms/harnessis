@@ -14,11 +14,11 @@ An agent team harness for academic research assistance.
 │   └── research-coordinator.md
 ├── skills/
 │   ├── research-assistant/
-│   │   └── skill.md              — Orchestrator
+│   │   └── SKILL.md              — Orchestrator
 │   ├── systematic-review-protocol/
-│   │   └── skill.md              — Systematic review (PRISMA, PICO, Boolean search)
+│   │   └── SKILL.md              — Systematic review (PRISMA, PICO, Boolean search)
 │   └── citation-formatter/
-│       └── skill.md              — Citation format conversion (APA/MLA/Chicago, BibTeX)
+│       └── SKILL.md              — Citation format conversion (APA/MLA/Chicago, BibTeX)
 └── CLAUDE.md                     — This file
 ```
 

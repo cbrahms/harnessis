@@ -14,13 +14,13 @@
 │   └── course-reviewer.md      — 과정검증자 (학습목표 정렬, 난이도, 품질)
 ├── skills/
 │   ├── course-builder/
-│   │   └── skill.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── learning-design/
-│   │   └── skill.md             — curriculum-designer+content-writer 확장 (블룸, 가네, 인지부하)
+│   │   └── SKILL.md             — curriculum-designer+content-writer 확장 (블룸, 가네, 인지부하)
 │   ├── assessment-engineering/
-│   │   └── skill.md             — quiz-maker 확장 (문항 설계, 오답지 심리학, 루브릭)
+│   │   └── SKILL.md             — quiz-maker 확장 (문항 설계, 오답지 심리학, 루브릭)
 │   └── lab-scaffolding/
-│       └── skill.md             — lab-designer 확장 (5단계 피라미드, 스타터코드, 캡스톤)
+│       └── SKILL.md             — lab-designer 확장 (5단계 피라미드, 스타터코드, 캡스톤)
 └── CLAUDE.md                    — 이 파일
 ```
 

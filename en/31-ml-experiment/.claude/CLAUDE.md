@@ -14,13 +14,13 @@ A harness where an agent team collaborates to perform the full ML experiment lif
 │   └── experiment-reviewer.md   — Experiment Reviewer (cross-validation, publication quality, reproducibility verification)
 ├── skills/
 │   ├── ml-experiment/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── feature-engineering-cookbook/
-│   │   └── skill.md              — Feature engineering techniques catalog
+│   │   └── SKILL.md              — Feature engineering techniques catalog
 │   ├── model-selection-guide/
-│   │   └── skill.md              — ML model selection matrix guide
+│   │   └── SKILL.md              — ML model selection matrix guide
 │   └── experiment-tracking-setup/
-│       └── skill.md              — Experiment tracking and reproducibility guide
+│       └── SKILL.md              — Experiment tracking and reproducibility guide
 └── CLAUDE.md                    — This file
 ```
 

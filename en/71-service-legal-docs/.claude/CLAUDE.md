@@ -13,11 +13,11 @@ A service terms and legal document drafting agent team harness.
 │   └── consistency-reviewer.md
 ├── skills/
 │   ├── service-legal-docs/
-│   │   └── skill.md              — Orchestrator
+│   │   └── SKILL.md              — Orchestrator
 │   ├── unfair-terms-detector/
-│   │   └── skill.md              — Unfair terms detector (unfairness criteria, regulatory examples, amendment suggestions)
+│   │   └── SKILL.md              — Unfair terms detector (unfairness criteria, regulatory examples, amendment suggestions)
 │   └── cross-document-linker/
-│       └── skill.md              — Cross-document linker (term consistency, cross-reference mapping, version management)
+│       └── SKILL.md              — Cross-document linker (term consistency, cross-reference mapping, version management)
 └── CLAUDE.md                     — This file
 ```
 

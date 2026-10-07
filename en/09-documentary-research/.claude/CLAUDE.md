@@ -14,13 +14,13 @@ A harness where an agent team collaborates to produce documentary research, trea
 │   └── fact-checker.md         — Fact Checker (cross-verification, source confirmation, consistency)
 ├── skills/
 │   ├── documentary-research/
-│   │   └── skill.md            — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md            — Orchestrator (team coordination, workflow, error handling)
 │   ├── investigative-research/
-│   │   └── skill.md            — researcher+fact-checker extension (PRIMA, CRAAP, triangulation)
+│   │   └── SKILL.md            — researcher+fact-checker extension (PRIMA, CRAAP, triangulation)
 │   ├── narrative-structure/
-│   │   └── skill.md            — story-architect+narrator extension (5 narrative types, emotion curves)
+│   │   └── SKILL.md            — story-architect+narrator extension (5 narrative types, emotion curves)
 │   └── interview-design/
-│       └── skill.md            — interviewer extension (VOICE selection, funnel model, ethics)
+│       └── SKILL.md            — interviewer extension (VOICE selection, funnel model, ethics)
 └── CLAUDE.md                   — This file
 ```
 

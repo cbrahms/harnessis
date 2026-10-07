@@ -14,11 +14,11 @@
 │   └── quality-reviewer.md      — 품질 검증자 (교차 검증, 메시지 일관성)
 ├── skills/
 │   ├── content-repurposer/
-│   │   └── skill.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── platform-adaptation/
-│   │   └── skill.md             — sns-copywriter+blog-writer 확장 (플랫폼별 DNA, 변환 매트릭스)
+│   │   └── SKILL.md             — sns-copywriter+blog-writer 확장 (플랫폼별 DNA, 변환 매트릭스)
 │   └── content-atomization/
-│       └── skill.md             — source-analyst+presentation-builder 확장 (MINE 분석, 원자 분류)
+│       └── SKILL.md             — source-analyst+presentation-builder 확장 (MINE 분석, 원자 분류)
 └── CLAUDE.md                    — 이 파일
 ```
 

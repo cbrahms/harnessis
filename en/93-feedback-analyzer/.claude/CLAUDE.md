@@ -14,11 +14,11 @@ A customer/employee feedback analysis harness. An agent team collaborates to han
 │   └── insight-writer.md      — Insight report (action items, prioritization)
 ├── skills/
 │   ├── feedback-analyzer/
-│   │   └── skill.md           — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md           — Orchestrator (team coordination, workflow, error handling)
 │   ├── sentiment-scoring/
-│   │   └── skill.md           — Sentiment analysis scoring (sentiment-analyst extension)
+│   │   └── SKILL.md           — Sentiment analysis scoring (sentiment-analyst extension)
 │   └── text-analytics-methods/
-│       └── skill.md           — Text analytics methodology (topic-classifier extension)
+│       └── SKILL.md           — Text analytics methodology (topic-classifier extension)
 └── CLAUDE.md                  — This file
 ```
 

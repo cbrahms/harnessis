@@ -14,11 +14,11 @@ A personal branding agent team harness.
 │   └── cover-letter-writer.md
 ├── skills/
 │   ├── personal-branding/
-│   │   └── skill.md              — Orchestrator
+│   │   └── SKILL.md              — Orchestrator
 │   ├── ats-optimizer/
-│   │   └── skill.md              — ATS optimization (keywords, formatting, achievement quantification)
+│   │   └── SKILL.md              — ATS optimization (keywords, formatting, achievement quantification)
 │   └── linkedin-seo/
-│       └── skill.md              — LinkedIn SEO (search algorithm, section-by-section optimization, SSI)
+│       └── SKILL.md              — LinkedIn SEO (search algorithm, section-by-section optimization, SSI)
 └── CLAUDE.md                     — This file
 ```
 

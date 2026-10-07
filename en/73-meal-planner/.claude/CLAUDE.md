@@ -13,11 +13,11 @@ A meal planning agent team harness.
 │   └── shopping-coordinator.md
 ├── skills/
 │   ├── meal-planner/
-│   │   └── skill.md              — Orchestrator
+│   │   └── SKILL.md              — Orchestrator
 │   ├── nutrition-calculator/
-│   │   └── skill.md              — Nutrition calculator (macro/micronutrients, daily intake, meal balance)
+│   │   └── SKILL.md              — Nutrition calculator (macro/micronutrients, daily intake, meal balance)
 │   └── ingredient-substitution-engine/
-│       └── skill.md              — Ingredient substitution engine (allergy alternatives, seasonal swaps, budget options)
+│       └── SKILL.md              — Ingredient substitution engine (allergy alternatives, seasonal swaps, budget options)
 └── CLAUDE.md                     — This file
 ```
 

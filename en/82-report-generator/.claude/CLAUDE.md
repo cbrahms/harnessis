@@ -14,11 +14,11 @@ work report datacollection→analysis→visualization→→summary A harness whe
 │ └── executive-summarizer.md — summary and cross-verification (core summary, consistency confirm)
 ├── skills/
 │ ├── report-generator/
-│ │ └── skill.md — Orchestrator (team , workflow, error handling)
+│ │ └── SKILL.md — Orchestrator (team , workflow, error handling)
 │ ├── data-visualization-guide/
-│ │ └── skill.md — data visualization guide (visualizer extension)
+│ │ └── SKILL.md — data visualization guide (visualizer extension)
 │ └── kpi-dashboard-patterns/
-│ └── skill.md — KPI dashboard design pattern (analyst extension)
+│ └── SKILL.md — KPI dashboard design pattern (analyst extension)
 └── CLAUDE.md — file
 ```
 

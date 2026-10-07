@@ -14,11 +14,11 @@ CI/CD 파이프라인의 설계·구축·모니터링·최적화를 에이전트
 │   └── pipeline-reviewer.md     — 파이프라인 리뷰 (효율성, 안정성, 보안, 정합성)
 ├── skills/
 │   ├── cicd-pipeline/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── pipeline-security-gates/
-│   │   └── skill.md              — 보안스캐너 확장 (SAST/SCA/시크릿 도구, 게이트 배치, 임계값)
+│   │   └── SKILL.md              — 보안스캐너 확장 (SAST/SCA/시크릿 도구, 게이트 배치, 임계값)
 │   └── deployment-strategies/
-│       └── skill.md              — 파이프라인설계자 확장 (Blue-Green/Canary/Rolling, DORA)
+│       └── SKILL.md              — 파이프라인설계자 확장 (Blue-Green/Canary/Rolling, DORA)
 └── CLAUDE.md                     — 이 파일
 ```
 

@@ -14,11 +14,11 @@ Text processing pipeline: a harness in which an agent team collaborates to trans
 │   └── report-writer.md     — Report writing (structured data integration, insights, visualization)
 ├── skills/
 │   ├── text-processor/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── nlp-preprocessing-toolkit/
-│   │   └── skill.md              — Text preprocessing tools guide
+│   │   └── SKILL.md              — Text preprocessing tools guide
 │   └── sentiment-lexicon-builder/
-│       └── skill.md              — Sentiment lexicon and ABSA design guide
+│       └── SKILL.md              — Sentiment lexicon and ABSA design guide
 └── CLAUDE.md                — This file
 ```
 

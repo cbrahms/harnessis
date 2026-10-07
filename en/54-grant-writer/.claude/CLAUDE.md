@@ -14,11 +14,11 @@ A harness where an agent team collaborates on grant and funding applications: an
 │   └── submission-verifier.md   — Submission Verifier (document completeness, gap checking)
 ├── skills/
 │   ├── grant-writer/
-│       └── skill.md             — Orchestrator (team coordination, workflow, error handling)
+│       └── SKILL.md             — Orchestrator (team coordination, workflow, error handling)
 │   ├── budget-rule-engine/
-│   │   └── skill.md             — Budget Rule Engine (eligible costs, ratio limits)
+│   │   └── SKILL.md             — Budget Rule Engine (eligible costs, ratio limits)
 │   └── scoring-optimizer/
-│       └── skill.md             — Scoring Optimizer (point analysis, keywords)
+│       └── SKILL.md             — Scoring Optimizer (point analysis, keywords)
 └── CLAUDE.md                    — This file
 ```
 

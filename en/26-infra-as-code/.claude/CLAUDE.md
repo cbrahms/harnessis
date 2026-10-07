@@ -14,11 +14,11 @@ An agent team harness for Infrastructure as Code (IaC) design and implementation
 │   └── iac-reviewer.md           — Cross-validation (design <-> security <-> cost <-> drift consistency)
 ├── skills/
 │   ├── infra-as-code/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── terraform-module-patterns/
-│   │   └── skill.md              — Terraform module design pattern guide
+│   │   └── SKILL.md              — Terraform module design pattern guide
 │   └── cloud-cost-models/
-│       └── skill.md              — Cloud cost model and FinOps guide
+│       └── SKILL.md              — Cloud cost model and FinOps guide
 └── CLAUDE.md                     — This file
 ```
 

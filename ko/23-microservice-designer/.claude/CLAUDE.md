@@ -14,11 +14,11 @@
 │   └── architecture-reviewer.md  — 교차 검증 (도메인↔서비스↔통신↔관측성 정합성)
 ├── skills/
 │   ├── microservice-designer/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── ddd-context-mapping/
-│   │   └── skill.md              — 바운디드 컨텍스트·이벤트 스토밍·컨텍스트 맵 가이드
+│   │   └── SKILL.md              — 바운디드 컨텍스트·이벤트 스토밍·컨텍스트 맵 가이드
 │   └── distributed-patterns/
-│       └── skill.md              — 분산 시스템 패턴(Saga, CQRS, Circuit Breaker) 가이드
+│       └── SKILL.md              — 분산 시스템 패턴(Saga, CQRS, Circuit Breaker) 가이드
 └── CLAUDE.md                     — 이 파일
 ```
 

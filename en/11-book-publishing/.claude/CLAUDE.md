@@ -14,13 +14,13 @@ A harness where an agent team collaborates to produce e-book publishing delivera
 │   └── publishing-reviewer.md   — Publishing Reviewer (quality verification, spec compliance, final check)
 ├── skills/
 │   ├── book-publishing/
-│   │   └── skill.md             — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md             — Orchestrator (team coordination, workflow, error handling)
 │   ├── developmental-editing/
-│   │   └── skill.md             — manuscript-editor extension (SPINE check, genre-specific editing, pacing)
+│   │   └── SKILL.md             — manuscript-editor extension (SPINE check, genre-specific editing, pacing)
 │   ├── cover-design-psychology/
-│   │   └── skill.md             — cover-designer extension (genre conventions, typography, AI prompts)
+│   │   └── SKILL.md             — cover-designer extension (genre conventions, typography, AI prompts)
 │   └── book-metadata-seo/
-│       └── skill.md             — metadata-manager extension (BISAC/KDC, keywords, AIDA descriptions)
+│       └── SKILL.md             — metadata-manager extension (BISAC/KDC, keywords, AIDA descriptions)
 └── CLAUDE.md                    — This file
 ```
 

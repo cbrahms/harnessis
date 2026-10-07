@@ -40,11 +40,11 @@ cp -r 01-youtube-production/.claude/ /path/to/my-project/.claude/
     │   └── {agent-5}.md (선택)
     └── skills/
         ├── {orchestrator}/
-        │   └── skill.md                   # 오케스트레이터 스킬
+        │   └── SKILL.md                   # 오케스트레이터 스킬
         ├── {agent-skill-1}/
-        │   └── skill.md                   # 에이전트 확장 스킬
+        │   └── SKILL.md                   # 에이전트 확장 스킬
         └── {agent-skill-2}/
-            └── skill.md                   # 에이전트 확장 스킬
+            └── SKILL.md                   # 에이전트 확장 스킬
 ```
 
 ## 품질 기준

@@ -14,11 +14,11 @@
 │   └── persona-architect.md     — 페르소나 설계 (봇 성격, 톤, 브랜드 정합성)
 ├── skills/
 │   ├── chatbot-builder/
-│       └── skill.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│       └── SKILL.md             — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── intent-taxonomy-builder/
-│   │   └── skill.md             — 의도 분류 체계 (엔티티, 슬롯, 학습 데이터)
+│   │   └── SKILL.md             — 의도 분류 체계 (엔티티, 슬롯, 학습 데이터)
 │   └── conversation-flow-validator/
-│       └── skill.md             — 대화 흐름 검증 (결함 탐지, 테스트, 메트릭)
+│       └── SKILL.md             — 대화 흐름 검증 (결함 탐지, 테스트, 메트릭)
 └── CLAUDE.md                    — 이 파일
 ```
 

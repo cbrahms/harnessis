@@ -13,11 +13,11 @@ A harness where an agent team collaborates to perform the full competency modeli
 │   └── development-planner.md    — Development Planner (competency development, learning paths, matrix)
 ├── skills/
 │   ├── competency-modeler/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── bars-assessment/
-│   │   └── skill.md              — BARS Assessment Design (behavioral anchors, BEI questions, SJT items)
+│   │   └── SKILL.md              — BARS Assessment Design (behavioral anchors, BEI questions, SJT items)
 │   └── ksa-taxonomy/
-│       └── skill.md              — KSA Taxonomy (NCS/O*NET mapping, competency levels, JD standards)
+│       └── SKILL.md              — KSA Taxonomy (NCS/O*NET mapping, competency levels, JD standards)
 └── CLAUDE.md                     — This file
 ```
 

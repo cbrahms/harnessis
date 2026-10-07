@@ -13,11 +13,11 @@ A regulatory filing and permit application agent team harness.
 │   └── submission-verifier.md
 ├── skills/
 │   ├── regulatory-filing/
-│   │   └── skill.md              — Orchestrator
+│   │   └── SKILL.md              — Orchestrator
 │   ├── permit-requirements-db/
-│   │   └── skill.md              — Permit requirements database (filing types, required documents, processing timelines)
+│   │   └── SKILL.md              — Permit requirements database (filing types, required documents, processing timelines)
 │   └── form-filling-guide/
-│       └── skill.md              — Form filling guide (field-by-field instructions, common mistakes, example entries)
+│       └── SKILL.md              — Form filling guide (field-by-field instructions, common mistakes, example entries)
 └── CLAUDE.md                     — This file
 ```
 

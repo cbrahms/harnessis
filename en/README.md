@@ -40,11 +40,11 @@ Every harness follows a consistent structure:
     │   └── {agent-5}.md (optional)
     └── skills/
         ├── {orchestrator}/
-        │   └── skill.md                   # Orchestrator skill
+        │   └── SKILL.md                   # Orchestrator skill
         ├── {agent-skill-1}/
-        │   └── skill.md                   # Agent-extending skill
+        │   └── SKILL.md                   # Agent-extending skill
         └── {agent-skill-2}/
-            └── skill.md                   # Agent-extending skill
+            └── SKILL.md                   # Agent-extending skill
 ```
 
 ## Quality Standards

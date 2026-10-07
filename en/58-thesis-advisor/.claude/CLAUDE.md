@@ -14,11 +14,11 @@ An agent team harness for thesis writing: topic selection, literature review, me
 │   └── proofreader.md           — Proofreader (grammar, formatting, citations, consistency)
 ├── skills/
 │   ├── thesis-advisor/
-│       └── skill.md             — Orchestrator (team coordination, workflow, error handling)
+│       └── SKILL.md             — Orchestrator (team coordination, workflow, error handling)
 │   ├── academic-writing-style/
-│   │   └── skill.md             — Academic Writing Style (APA/MLA, hedging, metadiscourse)
+│   │   └── SKILL.md             — Academic Writing Style (APA/MLA, hedging, metadiscourse)
 │   └── research-methodology/
-│       └── skill.md             — Research Methodology (quantitative/qualitative, design, validity)
+│       └── SKILL.md             — Research Methodology (quantitative/qualitative, design, validity)
 └── CLAUDE.md                    — This file
 ```
 

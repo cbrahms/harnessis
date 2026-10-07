@@ -13,11 +13,11 @@
 │   └── strategy-advisor.md     — 전략 수립자 (소송/분쟁 전략, 대응 방안, 리스크 평가)
 ├── skills/
 │   ├── legal-research/
-│   │   └── skill.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러 핸들링)
+│   │   └── SKILL.md            — 오케스트레이터 (팀 조율, 워크플로우, 에러 핸들링)
 │   ├── case-analysis-framework/
-│   │   └── skill.md            — 판례 분석 프레임워크 (case-searcher, legal-analyst용)
+│   │   └── SKILL.md            — 판례 분석 프레임워크 (case-searcher, legal-analyst용)
 │   └── legal-writing-methodology/
-│       └── skill.md            — 법률 문서 작성 방법론 (opinion-writer용)
+│       └── SKILL.md            — 법률 문서 작성 방법론 (opinion-writer용)
 └── CLAUDE.md                   — 이 파일
 ```
 

@@ -14,11 +14,11 @@ Market research: a harness where an agent team collaborates to perform industry 
 │   └── research-reviewer.md   — Research Reviewer (data verification, methodology review, insight synthesis)
 ├── skills/
 │   ├── market-research/
-│   │   └── skill.md              — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md              — Orchestrator (team coordination, workflow, error handling)
 │   ├── porter-five-forces/
-│   │   └── skill.md              — Porter's Five Forces analysis framework
+│   │   └── SKILL.md              — Porter's Five Forces analysis framework
 │   └── tam-sam-som-calculator/
-│       └── skill.md              — TAM/SAM/SOM market sizing methodology
+│       └── SKILL.md              — TAM/SAM/SOM market sizing methodology
 └── CLAUDE.md                  — This file
 ```
 

@@ -14,13 +14,13 @@ Investor report generation: an agent team collaborates to produce financial perf
 │   └── ir-reviewer.md           — Cross-validation (financial ↔ KPI ↔ market ↔ strategy consistency)
 ├── skills/
 │   ├── investor-report/
-│   │   └── skill.md             — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md             — Orchestrator (team coordination, workflow, error handling)
 │   ├── financial-ratio-analyzer/
-│   │   └── skill.md             — Financial ratio deep analysis (DuPont, SaaS metrics, 5 ratio categories)
+│   │   └── SKILL.md             — Financial ratio deep analysis (DuPont, SaaS metrics, 5 ratio categories)
 │   ├── kpi-benchmark-engine/
-│   │   └── skill.md             — KPI benchmarking (industry benchmarks, SMART-R, pyramid)
+│   │   └── SKILL.md             — KPI benchmarking (industry benchmarks, SMART-R, pyramid)
 │   └── ir-narrative-builder/
-│       └── skill.md             — IR narrative construction (Equity Story, investor-specific tone, EBITDA Bridge)
+│       └── SKILL.md             — IR narrative construction (Equity Story, investor-specific tone, EBITDA Bridge)
 └── CLAUDE.md                    — This file
 ```
 

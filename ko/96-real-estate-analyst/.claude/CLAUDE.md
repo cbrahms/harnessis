@@ -14,11 +14,11 @@
 │   └── report-writer.md          — 투자 보고서 (종합판단, 투자의견)
 ├── skills/
 │   ├── real-estate-analyst/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── cap-rate-calculator/
-│   │   └── skill.md              — 수익률 계산기 (profitability-analyst 확장)
+│   │   └── SKILL.md              — 수익률 계산기 (profitability-analyst 확장)
 │   └── location-scoring/
-│       └── skill.md              — 입지 평가 스코어카드 (location-analyst 확장)
+│       └── SKILL.md              — 입지 평가 스코어카드 (location-analyst 확장)
 └── CLAUDE.md                     — 이 파일
 ```
 

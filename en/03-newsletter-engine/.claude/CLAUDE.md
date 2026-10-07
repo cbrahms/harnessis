@@ -14,13 +14,13 @@ A harness where an agent team collaborates to produce newsletter content through
 │   └── quality-reviewer.md    — Quality Reviewer (cross-validation, consistency checks)
 ├── skills/
 │   ├── newsletter-engine/
-│   │   └── skill.md           — Orchestrator (team coordination, workflow, error handling)
+│   │   └── SKILL.md           — Orchestrator (team coordination, workflow, error handling)
 │   ├── email-copywriting/
-│   │   └── skill.md           — copywriter extension (CURVE subject lines, CTA design, F-pattern)
+│   │   └── SKILL.md           — copywriter extension (CURVE subject lines, CTA design, F-pattern)
 │   ├── audience-segmentation/
-│   │   └── skill.md           — analyst+curator extension (BEAR model, send optimization)
+│   │   └── SKILL.md           — analyst+curator extension (BEAR model, send optimization)
 │   └── deliverability-optimization/
-│       └── skill.md           — editor-in-chief+analyst extension (spam filters, deliverability)
+│       └── SKILL.md           — editor-in-chief+analyst extension (spam filters, deliverability)
 └── CLAUDE.md                  — This file
 ```
 

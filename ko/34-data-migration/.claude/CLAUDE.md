@@ -14,11 +14,11 @@
 │   └── rollback-planner.md  — 롤백 계획 (백업 전략, 롤백 스크립트, 비상 절차)
 ├── skills/
 │   ├── data-migration/
-│   │   └── skill.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
+│   │   └── SKILL.md              — 오케스트레이터 (팀 조율, 워크플로우, 에러핸들링)
 │   ├── type-mapping-encyclopedia/
-│   │   └── skill.md              — 데이터 타입 매핑 백과사전
+│   │   └── SKILL.md              — 데이터 타입 매핑 백과사전
 │   └── data-validation-patterns/
-│       └── skill.md              — 마이그레이션 검증 패턴 가이드
+│       └── SKILL.md              — 마이그레이션 검증 패턴 가이드
 └── CLAUDE.md                — 이 파일
 ```
 
